@@ -1,0 +1,37 @@
+import axiosInstance from "./axios";
+
+export const getSuspectsLobby = (monitorType) => {
+  return axiosInstance.post(`/restreamershunter/getSuspectsLobby`, {
+    monitorType,
+  });
+};
+
+export const getUserByEmail = (email) => {
+  return axiosInstance.post(`/restreamershunter/getUserByEmail`, {
+    email,
+  });
+};
+
+export const getUsersByWtmIds = (ids) => {
+  return axiosInstance.post(`/restreamershunter/getUsersByWmtIds`, {
+    ids,
+  });
+};
+
+export const findUsersRoots = (email) => {
+  return axiosInstance.post(`/restreamershunter/findUsersRoots`, {
+    emails: [email],
+  });
+};
+
+export const getMeshes = (type) => {
+  return axiosInstance.post(`/restreamershunter/getMeshes`, {
+    monitorType: type,
+  });
+};
+
+export const getMeshData = (meshId) => {
+  return axiosInstance.post(`/restreamershunter/getMeshData`, {
+    meshId,
+  });
+};

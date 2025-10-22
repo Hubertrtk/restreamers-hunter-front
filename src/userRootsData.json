@@ -1,0 +1,6036 @@
+{
+	"damianfefwefwefe@gmail.com": {
+		"id": "3464bb4b-4969-4440-5cc1-4c2d4b2a8cf4",
+		"email": "damianfefwefwefe@gmail.com",
+		"firstname": "Acfwafwa",
+		"lastname": "Raweawf",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"UI8ByXehyDBehyOr",
+			"1RQaQrKxDCJ3l443"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"159.26.110.85"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"sepet80745@erapk.com": {
+		"id": "e943abee-a67f-f03f-5f80-1f649ef4e4ec",
+		"email": "sepet80745@erapk.com",
+		"firstname": "Abc",
+		"lastname": "Xcv",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"1RQaQrKxDCJ3l443"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"fametest2000@gmail.com": {
+		"id": "d897beb9-36a9-898d-1c8c-a02dc5f06c0b",
+		"email": "fametest2000@gmail.com",
+		"firstname": "Damian",
+		"lastname": "Nowak",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"UI8ByXehyDBehyOr"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"varox4e@gmail.com": {
+		"id": "10a909cd-c1ac-b483-fa49-73ba36c9afa0",
+		"email": "varox4e@gmail.com",
+		"firstname": "Hubert",
+		"lastname": "Rutowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"PRIME 11"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"dDri~5BoaxPuxVRy",
+			"UI8ByXehyDBehyOr"
+		],
+		"IpMonitor": [
+			"2a01:110f:441c:6700:79b8:27d6:a23c:c562",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"hubr2000@gmail.com": {
+		"id": "5bb09b51-9c1a-32e1-4f87-9700e74d71d7",
+		"email": "hubr2000@gmail.com",
+		"firstname": "Hubert",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"PRIME 9",
+			"Produkt testowy live 4",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"Produkt testowy live 4",
+			"FAME 27"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"UI8ByXehyDBehyOr",
+			"1RQaQrKxDCJ3l443"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"hubert.rutkowski@streamonline.tv": {
+		"id": "9b25cf6d-a1ec-3dfb-83a2-87f397e28b15",
+		"email": "hubert.rutkowski@streamonline.tv",
+		"firstname": "Hubert",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 14,
+				"sendEmail": true,
+				"customMessage": "Nara",
+				"created": 1726841213902,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1726841320635,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 155,
+				"sendEmail": true,
+				"created": 1726841458152,
+				"ip": false,
+				"customMessage": "Your account hubert.rutkowski@streamonline.tv  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1726841870174,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 207,
+				"sendEmail": true,
+				"customMessage": "hubert lubi placki",
+				"created": 1736257392095,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1736257453965,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 207,
+				"sendEmail": true,
+				"created": 1736257500796,
+				"ip": false,
+				"customMessage": "Your account hubert.rutkowski@streamonline.tv  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1736257579185,
+				"ip": false
+			}
+		],
+		"licenses": [
+			{
+				"pl": "Pablopavo i ludziki"
+			},
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			{
+				"pl": "Pablopavo i ludziki"
+			},
+			"Lotek i Rutek #5",
+			"Produkt testowy live 4",
+			"Produkt testowy live 4",
+			"Prime MMA 10",
+			"Produkt testowy live 4",
+			"Lotek i Rutek pakiet odc. 1-5",
+			"WBW 2024 El. 5 Wrocław - VOD",
+			"Strzyga z naszej klasy",
+			"Strike King 3",
+			"Moc Bez Ograniczeń z Nickiem",
+			"WBW 2024 Finał - Warszawa",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"SuperEnduro Round 2 Germany",
+			"Roast Stanowskiego",
+			"SHAQ ALL STARS LEAGUE",
+			{
+				"pl": "GROMDA 1 Fight Club"
+			},
+			"XTB KSW 108",
+			"FAME 27",
+			"GROMDA 22",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"dDri~5BoaxPuxVRy",
+			"UI8ByXehyDBehyOr",
+			"WItrt00EVJ4PdxCD",
+			"1RQaQrKxDCJ3l443"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"hivehil904@amcret.com": {
+		"id": "b718db24-de04-9ab5-5e3b-a68d126a0e93",
+		"email": "hivehil904@amcret.com",
+		"firstname": "Sefefsef",
+		"lastname": "Esfsefse",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"FAME 27"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"UI8ByXehyDBehyOr"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"u9724672714@gmail.com": {
+		"id": "3d723c56-47d8-ca82-33a7-0b441d3e3ce6",
+		"email": "u9724672714@gmail.com",
+		"firstname": "Hubert",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"UI8ByXehyDBehyOr"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"uptimetestacc@gmail.com": {
+		"id": "3f4866fa-d7d4-d92f-ee82-513c9b47209c",
+		"email": "uptimetestacc@gmail.com",
+		"firstname": "Abc",
+		"lastname": "Abc",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"UI8ByXehyDBehyOr",
+			"es192CtKiyeHozkJ",
+			"XUZT4t4Lc2nEd-Ma"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"zmartwychstalysauron@gmail.com": {
+		"id": "b4c44b8e-7093-60ae-86fe-aaaf83bd5176",
+		"email": "zmartwychstalysauron@gmail.com",
+		"firstname": "Hubert",
+		"lastname": "Rtki",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"WItrt00EVJ4PdxCD",
+			"UI8ByXehyDBehyOr",
+			"1RQaQrKxDCJ3l443"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"HashMonitor",
+				"IpMonitor"
+			]
+		}
+	},
+	"wortigern@gmail.com": {
+		"id": "23ef49b8-8309-07ee-6844-69e3920a194f",
+		"email": "wortigern@gmail.com",
+		"firstname": "Krzysztof",
+		"lastname": "Gastołek",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"iQ7acY2GX-fahNf6",
+			"HxeZxYZmJmyvjvil"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"188.146.32.241"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"op123@streamonline.pl": {
+		"id": "ed935407-4ed0-31ad-89d6-29a59dd1cb5c",
+		"email": "op123@streamonline.pl",
+		"firstname": "Sadf",
+		"lastname": "Adsf",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"yevolo7413@sectorid.com": {
+		"id": "c96cfb9a-54f6-c5cf-f7c0-d74c52f78b2b",
+		"email": "yevolo7413@sectorid.com",
+		"firstname": "Asdasd",
+		"lastname": "Assasa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"damian.nowak80ff@interia.pl": {
+		"id": "59e12ff2-403c-7051-e0ba-866b2d60b369",
+		"email": "damian.nowak80ff@interia.pl",
+		"firstname": "Bartosz",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"5vNlLGZuPomXMgKn"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"sdasadasd@wp.pl": {
+		"id": "1e6c4176-0488-ade1-2058-753f6bac56e0",
+		"email": "sdasadasd@wp.pl",
+		"firstname": "SadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsad",
+		"lastname": "SadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasdSadsadsadasdsad",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"jogixih253@fenxz.com": {
+		"id": "52188cc7-0a2d-04c9-236c-4839d211013b",
+		"email": "jogixih253@fenxz.com",
+		"firstname": "Abac",
+		"lastname": "AVafa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"KnORQ~LyDjxB_fyP"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"loheye9004@bocapies.com": {
+		"id": "f879f3d7-8a38-8ea6-3580-38270c200785",
+		"email": "loheye9004@bocapies.com",
+		"firstname": "Yiker",
+		"lastname": "Yikerosz",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"IlkYBEHscc0g4yLa"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"lajeg94025@perceint.com": {
+		"id": "8c6da12f-ecc4-dc42-e27e-4f76f605d7b5",
+		"email": "lajeg94025@perceint.com",
+		"firstname": "AAAAAAAAAaaaaa",
+		"lastname": "AAAAAAAAAaaaaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"piotr@streamonline.tv1751972859948": {
+		"id": "87781c41-35d4-b4b0-c7d4-d3e12626f2c4",
+		"email": "piotr@streamonline.tv1751972859948",
+		"firstname": "Piotr",
+		"lastname": "Chałupko",
+		"country": "CZ",
+		"banNotes": [],
+		"licenses": [
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			},
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			{
+				"pl": "Soul Show"
+			},
+			{
+				"pl": "Czarodziej"
+			},
+			{
+				"pl": "Innovation 2020"
+			},
+			{
+				"pl": "GROMDA Fight Club"
+			},
+			{
+				"pl": "Lotek i Rutek"
+			},
+			{
+				"pl": "EFMMA"
+			},
+			{
+				"pl": "Pablopavo i ludziki"
+			},
+			{
+				"pl": "Paranienormalni"
+			},
+			{
+				"pl": "Lotek i Rutek #2"
+			},
+			{
+				"pl": "Olsztyn Green PLAŻÓWKA 2020"
+			},
+			{
+				"pl": "ACA 109"
+			},
+			{
+				"pl": "Sylwia Grzeszczak - Koncert LIVE"
+			},
+			{
+				"pl": "GROMDA 2"
+			},
+			{
+				"pl": "GROMDA 1 Fight Club"
+			},
+			{
+				"pl": "Paranienormalni"
+			},
+			{
+				"pl": "Tania Rewia: życie w rodzinie"
+			},
+			"Gala EFM 4 w Szczecinie!",
+			{
+				"pl": "OKFA 2020"
+			},
+			"OCTAGON No Mercy 10",
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Roast Friza"
+			},
+			{
+				"pl": "Roast Friza"
+			},
+			{
+				"pl": "Roast Friza"
+			},
+			"PUNCHDOWN #3",
+			"PUNCHDOWN #4",
+			"Way of Warrior: New blood",
+			{
+				"pl": "Wielcy Artyści Małym Pacjentom 2021"
+			},
+			{
+				"pl": "TEDxWarsaw 2021: Polaryzacja!",
+				"en": "TEDxWarsaw 2021: Polarization!"
+			},
+			"THE WAR 1",
+			"EFM SHOW 2",
+			"ROZTAŃCZONY PGE NARODOWY",
+			"PUNCHDOWN 5",
+			"Chude Byki: Listopad 2021",
+			"THE WAR 3",
+			"THE WAR 2",
+			"THE WAR 1",
+			"Clash of the Stars I",
+			"Roast Pudziana",
+			{
+				"pl": "Roast Friza"
+			},
+			"Royal Division",
+			"WOTORE 5",
+			"FAME MMA 14: EXTRAS + PAKIET 11, 12, 13 VOD",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"PINK MMA",
+			"Clash of the Stars 2",
+			"Fist Universe",
+			"Koncert TEAMXSHOW!",
+			"LIVE GAME #1",
+			"The War 4",
+			"Moc Bez Ograniczeń - PREMIUM",
+			"Kingpyn Boxing Live",
+			"VALHALLA FIGHTING - BASIC",
+			"Heroes Gate 27",
+			"SFC Underground - Worldwide",
+			"AlkoMaster 2: Wesele - PREMIUM",
+			"Fight Rose 4 Arena Walk",
+			"HYBRID MMA I - POCZĄTEK",
+			"The Ring 9",
+			"HYBRID MMA 4 - NEXT LEVEL",
+			"Underground Boxing Night 3",
+			"PRIME 9",
+			"Strike King 3",
+			"Super Enduro Round 1 Gliwice VOD",
+			"PRIME 11",
+			"Hold'n'Hit 2 Return",
+			"Produkt testowy live 4",
+			"Roast Stanowskiego",
+			"Roast Stanowskiego",
+			"Warsaw Boxing Cup",
+			"Hold and Hit 3 - Katharsis",
+			"PRIME 12",
+			"XTB KSW 107",
+			"PRIME 13"
+		],
+		"transactions": [
+			{
+				"product": "Stand-up Polska na żywo",
+				"channel": "StripeCheckout"
+			},
+			{
+				"product": {
+					"pl": "GROMDA Fight Club"
+				},
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "Clash of the Stars 2",
+				"channel": "StripeCheckout"
+			}
+		],
+		"HashMonitor": [
+			"fq~DSFstA2WZHyVc",
+			"-2VUEx0O_Z-kKOr9"
+		],
+		"IpMonitor": [
+			"89.70.57.94",
+			"95.160.119.55",
+			"89.79.60.12",
+			"217.138.220.200"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"timafin975@sectorid.com": {
+		"id": "e5a0b1e3-47c0-d027-ff42-5792f68c01eb",
+		"email": "timafin975@sectorid.com",
+		"firstname": "Sadsa",
+		"lastname": "Asdsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"czeski@playlive.net": {
+		"id": "dbf14a20-e342-6a8d-d2cb-a454e9ec9344",
+		"email": "czeski@playlive.net",
+		"firstname": "Czeski",
+		"lastname": "Playlive",
+		"country": "CZ",
+		"banNotes": [],
+		"licenses": [
+			"XTB KSW 111"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8",
+			"WqoEKeRljjzbiq9J",
+			"g-4u5pwESsasexNg"
+		],
+		"IpMonitor": [
+			"89.71.186.32",
+			"95.160.119.55",
+			"87.249.133.234",
+			"46.170.213.61"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"cvm242fs67@privaterelay.appleid.com": {
+		"id": "fa4f5251-dd76-87bc-9dff-9e10b995ca2f",
+		"email": "cvm242fs67@privaterelay.appleid.com",
+		"firstname": "",
+		"lastname": "",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"XTB KSW 107"
+		],
+		"transactions": [
+			{
+				"product": "XTB KSW 107",
+				"channel": "HotPayTransfer"
+			}
+		],
+		"HashMonitor": [
+			"EA_mRmnWiWgdMWaf",
+			"XUZT4t4Lc2nEd-Ma",
+			"VxMQmvZyXKIfn6ac",
+			"yqlizMiv964JZuIM",
+			"f04ofowq02CWtBrd",
+			"5vNlLGZuPomXMgKn"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55",
+			"62.122.113.26",
+			"62.122.113.111"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"racoso2496@noroasis.com": {
+		"id": "14e09a1b-aace-943c-92f4-9fc3aa58a2ce",
+		"email": "racoso2496@noroasis.com",
+		"firstname": "Dawid",
+		"lastname": "Domińsku",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"es192CtKiyeHozkJ"
+		],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"ksedoxx@gmail.com": {
+		"id": "70106d89-2c14-9dd5-d4d2-0482a2612811",
+		"email": "ksedoxx@gmail.com",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"XTB KSW 107",
+			"GROMDA 22"
+		],
+		"transactions": [
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"Pn85uzd8xV-Vw5bq",
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"yixagi8100@prorsd.com": {
+		"id": "c9b5ea12-4151-105e-b111-282396816f91",
+		"email": "yixagi8100@prorsd.com",
+		"firstname": "Sadsa",
+		"lastname": "Asdsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"erykrachwal@yahoo.com": {
+		"id": "378f3044-5283-d17c-de37-38aa1c79bf5e",
+		"email": "erykrachwal@yahoo.com",
+		"firstname": "Eryk",
+		"lastname": "Rachwal",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"Pn85uzd8xV-Vw5bq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"wojtek@clashofthestars.tv": {
+		"id": "ef672ea4-6184-bd5b-4b6f-b5ed5600d361",
+		"email": "wojtek@clashofthestars.tv",
+		"firstname": "Wojtek",
+		"lastname": "Clash",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"wojtek@streamonline.tv": {
+		"id": "8e011845-648a-7f4f-5518-524a02a5bc07",
+		"email": "wojtek@streamonline.tv",
+		"firstname": "Wojtek",
+		"lastname": "Wróblewski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"PRIME 12",
+			"XTB KSW 107",
+			"PRIME 13",
+			"FAME 26",
+			"XTB KSW 108",
+			"FAME 27",
+			"King's Arena",
+			"XTB KSW 110",
+			"CLASH 13",
+			"PRIME 14",
+			"XTB KSW 111"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"BnHOz5OtI3oah-0V",
+			"cJq6OwaNmfwLuMsZ",
+			"O49N6Vp6Dsxpr03d"
+		],
+		"IpMonitor": [
+			"193.164.142.120",
+			"46.170.213.57",
+			"188.146.36.118",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"hubertoooon@onet.pl": {
+		"id": "6264ec71-0821-447e-dff5-e62cb36b8fb8",
+		"email": "hubertoooon@onet.pl",
+		"firstname": "Afaf",
+		"lastname": "FEfefes",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"f04651cf1fbd9@gmail.com": {
+		"id": "fc470f65-65b3-6636-cc19-92f99f4461e8",
+		"email": "f04651cf1fbd9@gmail.com",
+		"firstname": "-",
+		"lastname": "-",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"PREMIUM PRODUCT"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testowyemail@mail.com": {
+		"id": "21baa77c-af3b-ac75-02b1-0757a2ba14e4",
+		"email": "testowyemail@mail.com",
+		"firstname": "Testowy",
+		"lastname": "Email",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1619554792150,
+				"ip": "127.0.0.1",
+				"customMessage": "Your account testowyemail@mail.com (IP: 127.0.0.1) has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"noteBody": "dsadsadsa",
+				"created": 1619554826303,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"invalidateProduct": 62,
+				"sendEmail": true,
+				"created": 1634047212924,
+				"ip": false,
+				"customMessage": "Your account testowyemail@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1634047244839,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"invalidateProduct": 62,
+				"sendEmail": true,
+				"created": 1634047704671,
+				"ip": false,
+				"customMessage": "Your account testowyemail@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1634047729196,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"invalidateProduct": 62,
+				"customMessage": "Testowa wiadomość<br>testowa ąćźćźżćźżćźż",
+				"created": 1634202768418,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1634202796617,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1636384951340,
+				"ip": false,
+				"customMessage": "Your account testowyemail@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1636385059767,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof.gastolek@streamonline.pl",
+				"invalidateProduct": 254,
+				"sendEmail": true,
+				"created": 1754576312776,
+				"ip": false,
+				"customMessage": "Your account testowyemail@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof.gastolek@streamonline.pl",
+				"sendEmail": true,
+				"created": 1754654722707,
+				"ip": false
+			}
+		],
+		"licenses": [
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Lotek i Rutek #3"
+			},
+			{
+				"pl": "Lotek i Rutek"
+			},
+			{
+				"pl": "Lotek i Rutek #2"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Sylwia Grzeszczak - Koncert LIVE"
+			},
+			{
+				"pl": "Dawid Podsiadło z Zespołem"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Lotek i Rutek - pakiet odc. 1, 2 i 3"
+			},
+			{
+				"pl": "Roast Friza"
+			},
+			{
+				"pl": "Złota Rybka"
+			},
+			{
+				"pl": "Ściana"
+			},
+			{
+				"pl": "Różowy Kapturek"
+			},
+			{
+				"pl": "Parapetówka"
+			},
+			{
+				"pl": "Pchła Szachrajka"
+			},
+			{
+				"pl": "Jabłko"
+			},
+			{
+				"pl": "Izba (nie) Przyjęć"
+			},
+			{
+				"pl": "Oddam żonę w dobre ręce"
+			},
+			{
+				"pl": "Lotek i Rutek #4"
+			},
+			"OCTAGON No Mercy 10",
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			"PUNCHDOWN #3",
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Lotek i Rutek #3"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Lotek i Rutek #4"
+			},
+			{
+				"pl": "Roast Friza"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Roast Friza"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Innovation 2020"
+			},
+			"KBN 15",
+			{
+				"pl": "PCA 2021"
+			},
+			{
+				"pl": "Lotek i Rutek"
+			},
+			"PUNCHDOWN #4",
+			"Lotek i Rutek #5",
+			{
+				"pl": "Wielcy Artyści Małym Pacjentom 2021"
+			},
+			"THE WAR 1",
+			"Way of Warrior: New blood",
+			{
+				"pl": "ACA 109"
+			},
+			{
+				"pl": "TEDxWarsaw 2021: Polaryzacja!",
+				"en": "TEDxWarsaw 2021: Polarization!"
+			},
+			{
+				"pl": "ACA 109"
+			},
+			{
+				"pl": "Olsztyn Green PLAŻÓWKA 2020"
+			},
+			{
+				"pl": "Innovation 2020"
+			},
+			"THE WAR 2",
+			"THE WAR 2",
+			"EFM SHOW 2",
+			"ROZTAŃCZONY PGE NARODOWY",
+			"PUNCHDOWN 5",
+			"PUNCHDOWN 5",
+			"Chude Byki: Listopad 2021",
+			"FAME MMA 9, 10, 11 PAKIET VOD",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 9: EXTRAS",
+			"THE WAR 3",
+			"Madness Cage Fighting 7",
+			"Clash of the Stars I",
+			"FAME MMA 13: EXTRAS + PAKIET 10, 11, 12 VOD",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"FAME MMA 10",
+			"Please, Stand-up! 2021",
+			"FAME MMA 13",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 14: EXTRAS + PAKIET 11, 12, 13 VOD",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"WOTORE 5",
+			"Royal Division",
+			"PINK MMA",
+			"Fist Universe",
+			"FAME MMA 14: EXTRAS + PAKIET 11, 12, 13 VOD",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"Clash of the Stars 2",
+			"Koncert TEAMXSHOW!",
+			"LIVE GAME #1",
+			"FAME MMA 15: EXTRAS + PAKIET 12, 13, 14 VOD",
+			"FAME MMA 14: EXTRAS",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 14",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"The War 4",
+			"Way of Warrior 9",
+			"PAŁUSKA KICKBOXING NIGHT 5 ",
+			"Kingpyn Boxing Live",
+			"AlkoMaster 2: Wesele - PREMIUM",
+			"RED FACE - RELOADED",
+			"VALHALLA FIGHTING: RETRO EDITION",
+			"VALHALLA: RETRO EDITION VOD",
+			"RED FACE II VOD",
+			"Najman Show",
+			"HYBRID MMA I - POCZĄTEK",
+			"Underground Boxing Night 3",
+			"RED FACE 4",
+			"PRIME 9",
+			"PRIME 9 VOD",
+			{
+				"pl": "GROMDA 1 Fight Club"
+			},
+			"Produkt testowy",
+			{
+				"pl": "Pablopavo i ludziki"
+			},
+			"Produkt testowy live 4",
+			"Lotek i Rutek pakiet odc. 1-5",
+			"Prime MMA 10",
+			"PRIME 11",
+			"Roast Stanowskiego",
+			"Warsaw Boxing Cup",
+			"PRIME 12",
+			"FAME 26",
+			"XTB KSW 109",
+			"FAME MMA 9, 10, 11 PAKIET VOD",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 9: EXTRAS",
+			"FAME 27",
+			"GROMDA 22",
+			"CLASH 13",
+			"GROMDA 22 - VOD",
+			"PRIME 14",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransferS"
+			}
+		],
+		"HashMonitor": [
+			"UdKmi4hqpVEGA9u",
+			"kWjoZPv4QnhQPbl8",
+			"heW_gTCcEzY4BNlG",
+			"HxeZxYZmJmyvjvil",
+			"g-4u5pwESsasexNg",
+			"iQ7acY2GX-fahNf6",
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"78.131.235.66",
+			"95.160.119.55",
+			"95.50.102.18",
+			"2a02:a319:c2bd:2d80:cc93:c69f:c9f8:3dac"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testowyadresik@mail.com": {
+		"id": "0102d291-9ea3-c0ef-7db6-931b0d6b8093",
+		"email": "testowyadresik@mail.com",
+		"firstname": "Testowy",
+		"lastname": "Adresik",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"noteBody": "test",
+				"customMessage": "test",
+				"created": 1597819553181,
+				"ip": "95.50.102.17"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1597819831211,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"customMessage": "<strong>Testowa wiadomość do użytkownika</strong>",
+				"created": 1597825312542,
+				"ip": "95.50.102.17"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"noteBody": "test",
+				"created": 1597828549993,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"created": 1633691729442,
+				"ip": false,
+				"customMessage": "Your account testowyadresik@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1633691859261,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"created": 1633692033355,
+				"ip": false,
+				"customMessage": "Your account testowyadresik@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1633693425238,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"created": 1633693519341,
+				"ip": false,
+				"customMessage": "Your account testowyadresik@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or finansial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1633693708861,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "krzysztof@streamonline.pl",
+				"invalidateProduct": 262,
+				"created": 1756203891417,
+				"ip": false,
+				"customMessage": "Your account testowyadresik@mail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "krzysztof@streamonline.pl",
+				"sendEmail": true,
+				"created": 1756216524513,
+				"ip": false
+			}
+		],
+		"licenses": [
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			{
+				"pl": "GROMDA Fight Club"
+			},
+			{
+				"pl": "Innovation 2020"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Soul Show"
+			},
+			{
+				"pl": "EFMMA"
+			},
+			{
+				"pl": "EFMMA"
+			},
+			{
+				"pl": "Białystok New Pop Festival 2020"
+			},
+			{
+				"pl": "Za lepsze czasy"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			},
+			{
+				"pl": "Lotek i Rutek #2"
+			},
+			{
+				"pl": "Białystok New Pop Festival 2020"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "GROMDA 2"
+			},
+			{
+				"pl": "Sylwia Grzeszczak - Koncert LIVE"
+			},
+			{
+				"pl": "Olsztyn Green PLAŻÓWKA 2020"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "GROMDA 1 Fight Club"
+			},
+			{
+				"pl": "ACA 109"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			"ACA 114: Omielańczuk vs Johnson",
+			{
+				"pl": "GROMDA 1 Fight Club"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Lech Conference 2020"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "The Czesuaf Show"
+			},
+			{
+				"pl": "Lotek i Rutek #3"
+			},
+			{
+				"pl": "Lotek i Rutek"
+			},
+			{
+				"pl": "Lotek i Rutek #2"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Dawid Podsiadło z Zespołem"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			"OCTAGON No Mercy 10",
+			{
+				"pl": "Roast Friza"
+			},
+			{
+				"pl": "PUNCHDOWN #2"
+			},
+			{
+				"pl": "Lotek i Rutek #4"
+			},
+			{
+				"pl": "Innovation 2020"
+			},
+			"KBN 15",
+			"PUNCHDOWN #4",
+			{
+				"pl": "Wielcy Artyści Małym Pacjentom 2021"
+			},
+			{
+				"pl": "TEDxWarsaw 2021: Polaryzacja!",
+				"en": "TEDxWarsaw 2021: Polarization!"
+			},
+			"THE WAR 1",
+			{
+				"pl": "Czarodziej"
+			},
+			"ROZTAŃCZONY PGE NARODOWY",
+			"PUNCHDOWN 5",
+			"Chude Byki: Listopad 2021",
+			"THE WAR 3",
+			"THE WAR 2",
+			"THE WAR 1",
+			"Madness Cage Fighting 7",
+			"Clash of the Stars I",
+			"Please, Stand-up! 2021",
+			"FAME MMA 14: EXTRAS + PAKIET 11, 12, 13 VOD",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"WOTORE 5",
+			"Clash of the Stars 2",
+			"LIVE GAME #1",
+			"FAME MMA 15: EXTRAS + PAKIET 12, 13, 14 VOD",
+			"FAME MMA 14: EXTRAS",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 14",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"Way of Warrior 9",
+			"The War 4",
+			"PAŁUSKA KICKBOXING NIGHT 5 ",
+			"AlkoMaster 2: Wesele - BASIC",
+			"RED FACE - RELOADED",
+			"PRIME 9",
+			"Prime MMA 10",
+			"Roast Stanowskiego",
+			"PRIME 13",
+			"FAME 26",
+			"FAME 27",
+			"WBW 2025 Eliminacje 6 - Poznań"
+		],
+		"transactions": [
+			{
+				"product": "Stand-up Polska na żywo",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "Grzegorz Dolniak Stream Show",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "GROMDA Fight Club",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransferS"
+			}
+		],
+		"HashMonitor": [
+			"kWjoZPv4QnhQPbl8",
+			"HxeZxYZmJmyvjvil",
+			"iQ7acY2GX-fahNf6",
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"78.131.235.66",
+			"95.160.119.55",
+			"95.50.102.18",
+			"2a02:a319:c2bd:2d80:25cf:34e5:6bec:f47e"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp1@playlive.net": {
+		"id": "fd3156fc-b919-b784-2fa6-fd868e8857cc",
+		"email": "testapp1@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp2@playlive.net": {
+		"id": "1bdc6526-e603-1c2e-74cd-ca40e0f04bb2",
+		"email": "testapp2@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp3@playlive.net": {
+		"id": "14675335-2ec0-15fa-9d77-36e96d3db404",
+		"email": "testapp3@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"ShX7DCSu4BHWNf_Q"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp4@playlive.net": {
+		"id": "75fe6384-3053-dede-dfe8-2dd0e184149c",
+		"email": "testapp4@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp5@playlive.net": {
+		"id": "af1c284c-1dcd-8f50-a9ed-a72b88c64398",
+		"email": "testapp5@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp6@playlive.net": {
+		"id": "9f1c69e5-588f-a2de-c75d-bd6051c0c0bf",
+		"email": "testapp6@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp7@playlive.net": {
+		"id": "cd9f2bab-ee38-28aa-7153-59366a91a386",
+		"email": "testapp7@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp8@playlive.net": {
+		"id": "53827c5a-2977-ad0c-8809-4d661c25faa7",
+		"email": "testapp8@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp9@playlive.net": {
+		"id": "223244fe-af73-f612-70ac-3fb553adb30b",
+		"email": "testapp9@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp10@playlive.net": {
+		"id": "2601f240-0898-4f15-d5fa-b12636b0e2f2",
+		"email": "testapp10@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp11@playlive.net": {
+		"id": "53fcab4c-fe9f-6086-0ebe-2a910512df80",
+		"email": "testapp11@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp12@playlive.net": {
+		"id": "11afa65e-9e1e-918b-49e1-f5b067d26ce6",
+		"email": "testapp12@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			},
+			"Lotek i Rutek pakiet odc. 1-5"
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp13@playlive.net": {
+		"id": "81b699df-a4e5-39fd-9bdd-99560d6eb003",
+		"email": "testapp13@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp14@playlive.net": {
+		"id": "a8f5ac97-1d50-7345-b567-45ed1e91e85f",
+		"email": "testapp14@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp15@playlive.net": {
+		"id": "56d398db-a3d7-46a9-90c6-2db696fe920e",
+		"email": "testapp15@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp16@playlive.net": {
+		"id": "a608aeba-1e07-eb53-77c1-7c3d4e597c5b",
+		"email": "testapp16@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp17@playlive.net": {
+		"id": "6826e07f-1102-59e6-e64e-5d81cb5ad338",
+		"email": "testapp17@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp18@playlive.net": {
+		"id": "37570bad-fc65-4a60-1829-e65469b2f323",
+		"email": "testapp18@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp19@playlive.net": {
+		"id": "df83392a-f1dd-66f9-55fa-4719c1f069fe",
+		"email": "testapp19@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testapp20@playlive.net": {
+		"id": "c1182733-e6cc-4c40-d564-670606bb969e",
+		"email": "testapp20@playlive.net",
+		"firstname": "Janek",
+		"lastname": "Testowy",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"test@duadsadadas.pl": {
+		"id": "5bab7052-4bc6-6729-83f1-018bed6c046c",
+		"email": "test@duadsadadas.pl",
+		"firstname": "Dsadsadsadsad",
+		"lastname": "Sadsadsadasdas",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"iQ7acY2GX-fahNf6"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"test.emaillabs@gmail.com": {
+		"id": "769e32b3-fb36-d9e9-6f6e-2642cef4ee58",
+		"email": "test.emaillabs@gmail.com",
+		"firstname": "Aaa",
+		"lastname": "Aaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testowy1@clashofthestars.tv": {
+		"id": "aff6e4cc-cf30-cfde-6ba4-2f60a177b02d",
+		"email": "testowy1@clashofthestars.tv",
+		"firstname": "Aaa",
+		"lastname": "Vvv",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9KG8b9kApbGdY1Aq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testowy2@clashofthestars.tv": {
+		"id": "9b2ad96c-f475-77db-4e46-545d4ae1a1f7",
+		"email": "testowy2@clashofthestars.tv",
+		"firstname": "Aaa",
+		"lastname": "Aaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9KG8b9kApbGdY1Aq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testowy3@clashofthestars.tv": {
+		"id": "9a1b1094-9e43-a804-1747-dd7fc815632e",
+		"email": "testowy3@clashofthestars.tv",
+		"firstname": "Dsadsad",
+		"lastname": "Sadsadsadsadas",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9KG8b9kApbGdY1Aq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"testowyadresik2@proton.me": {
+		"id": "a83bc30d-8ade-7f4d-5acb-75b03bb7b569",
+		"email": "testowyadresik2@proton.me",
+		"firstname": "K",
+		"lastname": "K",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"HxeZxYZmJmyvjvil"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"emilia.sytek@streamonline.pl": {
+		"id": "26140ce9-a583-a039-61e3-a9cf04a2a5bc",
+		"email": "emilia.sytek@streamonline.pl",
+		"firstname": "Emilia",
+		"lastname": "Sytek",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"THE WAR 1",
+			"Chude Byki: Listopad 2021",
+			"FAME MMA 9, 10, 11 PAKIET VOD",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 9: EXTRAS",
+			"THE WAR 3",
+			"Madness Cage Fighting 7",
+			"Clash of the Stars I",
+			"Roast Pudziana",
+			"Roast Pudziana",
+			"WOTORE 5",
+			"PINK MMA",
+			"Fist Universe",
+			"Clash of the Stars 2",
+			"LIVE GAME #1",
+			"Rage Combat",
+			"PAŁUSKA KICKBOXING NIGHT 5 ",
+			"Moc Bez Ograniczeń - BASIC",
+			"Kingpyn Boxing Live",
+			"GFN 4",
+			"AlkoMaster 2: Wesele - PREMIUM",
+			"WBW 2024 Eliminacje 1 - Kraków",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"Underground Boxing Night 3",
+			"PRIME 9",
+			"SuperEnduro Season Pass",
+			"SuperEnduro Round 1 Gliwice",
+			"SuperEnduro Round 2 Germany",
+			"SuperEnduro Round 3 Romania 365",
+			"SuperEnduro Round 4 Poland Łódź 365",
+			"SuperEnduro Round 5 Hungary 365",
+			"SuperEnduro Round 6 UK 365",
+			"SupeEnduro Round 7 France 365",
+			"WBW 2024 Finał - Warszawa",
+			"Roast Stanowskiego"
+		],
+		"transactions": [
+			{
+				"product": "PRIME 9",
+				"channel": "HotPayTransfer"
+			}
+		],
+		"HashMonitor": [
+			"g4HTcLDTjvr3QVhJ"
+		],
+		"IpMonitor": [
+			"213.76.108.134",
+			"46.170.213.60",
+			"5.173.150.68",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"mattsobiecki@gmail.com": {
+		"id": "62d47387-b485-eaf1-35af-f36e654af0f6",
+		"email": "mattsobiecki@gmail.com",
+		"firstname": "Mateusz",
+		"lastname": "Sobiecki",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			{
+				"pl": "EFMMA"
+			},
+			{
+				"pl": "ACA 109"
+			},
+			{
+				"pl": "GROMDA 2"
+			},
+			"PRIME 9",
+			"Strike King 3",
+			"PRIME 12",
+			"PRIME 13",
+			"King's Arena",
+			"CLASH 13"
+		],
+		"transactions": [
+			{
+				"product": "EFMMA",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "ACA 109",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "GROMDA 2",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "Strike King 3",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "PRIME 13",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "CLASH 13",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"wXdy5bWh4BEA-Cda"
+		],
+		"IpMonitor": [
+			"178.42.93.217",
+			"88.156.138.149",
+			"178.42.20.203",
+			"5.173.160.12",
+			"31.182.191.22",
+			"2a02:2a40:79ff:ec00:951f:dfb4:5438:7bb",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"wiciga6544@cctoolz.com": {
+		"id": "e19e9426-4afe-66fa-b0d6-9792e3b893bf",
+		"email": "wiciga6544@cctoolz.com",
+		"firstname": "Adadad",
+		"lastname": "DAadad",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bacibir274@sectorid.com": {
+		"id": "a1eb95fa-a134-080d-787d-3395d2e6debd",
+		"email": "bacibir274@sectorid.com",
+		"firstname": "Asdsad",
+		"lastname": "Sadsad",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"q6dd4cnnx9@privaterelay.appleid.com": {
+		"id": "34c0e93f-6e05-a49f-a990-6ffb98552bf2",
+		"email": "q6dd4cnnx9@privaterelay.appleid.com",
+		"firstname": "",
+		"lastname": "",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"HxeZxYZmJmyvjvil",
+			"iQ7acY2GX-fahNf6",
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"89.67.134.115",
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"gawor27501@pacfut.com": {
+		"id": "d5456825-dc0a-fe92-b175-6e16125b09ed",
+		"email": "gawor27501@pacfut.com",
+		"firstname": "Aaa",
+		"lastname": "Aaaaaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"iQ7acY2GX-fahNf6"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"jecalit702@prorsd.com": {
+		"id": "f53e269b-cfce-21ee-aaed-927e119e481b",
+		"email": "jecalit702@prorsd.com",
+		"firstname": "Llllll",
+		"lastname": "Inn",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"xenaxow963@bocapies.com": {
+		"id": "a12ff566-d89d-0f3a-32f5-6e32c6265b80",
+		"email": "xenaxow963@bocapies.com",
+		"firstname": "Dawid",
+		"lastname": "Sdadsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"IlkYBEHscc0g4yLa"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"majiv74117@benznoi.com": {
+		"id": "83d98f6e-5cff-2a93-23e8-33ce7f4fdf0a",
+		"email": "majiv74117@benznoi.com",
+		"firstname": "Dawid",
+		"lastname": "Dsasad",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"IlkYBEHscc0g4yLa"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"yitala8016@owlny.com": {
+		"id": "ae5be766-59b1-ac2e-f25a-00ff35ddfb2f",
+		"email": "yitala8016@owlny.com",
+		"firstname": "Hubert",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"6qc5sympr4@privaterelay.appleid.com": {
+		"id": "23035135-ce7e-a15d-36c5-a8324ad4b69f",
+		"email": "6qc5sympr4@privaterelay.appleid.com",
+		"firstname": "",
+		"lastname": "",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"GROMDA 22",
+			"King's Arena"
+		],
+		"transactions": [
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"5vNlLGZuPomXMgKn",
+			"yqlizMiv964JZuIM"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"2a02:26f7:c94d:4b40::6"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"xeyore7782@perceint.com": {
+		"id": "64fccf62-7318-5aa2-40bb-e0056205f4d1",
+		"email": "xeyore7782@perceint.com",
+		"firstname": "Sadsadsadasdsadasdsadsadsadsadsadsadsadsadsadasdsadsadsadasd",
+		"lastname": "Sadsadsadsadsadasdsadsadsadsaddgdfgsdhsgfhgdthdfg",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"maciejjozwik88@gmail.com1758895997632": {
+		"id": "12721030-baa2-e416-a932-34098a7f699b",
+		"email": "maciejjozwik88@gmail.com1758895997632",
+		"firstname": "Maciej",
+		"lastname": "",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 286,
+				"sendEmail": true,
+				"created": 1758896085809,
+				"ip": false,
+				"customMessage": "Your account maciejjozwik88@gmail.com1758895997632  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1758896092271,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 286,
+				"sendEmail": true,
+				"created": 1758896860746,
+				"ip": false,
+				"customMessage": "Your account maciejjozwik88@gmail.com1758895997632  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1758896863665,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"FAME 27",
+			"FAME 27"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"JrIAaJzjaI1Xkvn9",
+			"Pn85uzd8xV-Vw5bq",
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"maciejjozwik88@gmail.com": {
+		"id": "897231e3-b8a5-4050-0215-b51cf93f144e",
+		"email": "maciejjozwik88@gmail.com",
+		"firstname": "Ghfg",
+		"lastname": "Fgh",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 286,
+				"sendEmail": true,
+				"created": 1758896909522,
+				"ip": false,
+				"customMessage": "Your account maciejjozwik88@gmail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1758896929427,
+				"ip": false
+			}
+		],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"madalin.turcu@dms.ro": {
+		"id": "dc3387e7-028b-f867-7be5-b6a9994cff8d",
+		"email": "madalin.turcu@dms.ro",
+		"firstname": "Madalin",
+		"lastname": "Turcu",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"RXF TEST",
+			"RXF 50"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"Pn85uzd8xV-Vw5bq"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"81.196.219.41"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"lesici5779@jonespal.com": {
+		"id": "72bebd9d-8e0a-3d42-ed42-f91211a23bbe",
+		"email": "lesici5779@jonespal.com",
+		"firstname": "Sss",
+		"lastname": "Sss",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"SuperEnduro Season Pass",
+			"SuperEnduro Round 1 Gliwice",
+			"SuperEnduro Round 2 Germany",
+			"SuperEnduro Round 3 Romania 365",
+			"SuperEnduro Round 4 Poland Łódź 365",
+			"SuperEnduro Round 5 Hungary 365",
+			"SuperEnduro Round 6 UK 365",
+			"SupeEnduro Round 7 France 365",
+			"PRIME 11 VOD",
+			"SuperEnduro Round 3 Romania",
+			"FAME 27",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "XTB KSW 111",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"ShX7DCSu4BHWNf_Q",
+			"9Okbunfq3x3aVqp8",
+			"Q9krlMvZOx_88tiL"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"android-store@playlive.net": {
+		"id": "0e407217-e548-68c7-33a7-592f9ec58c22",
+		"email": "android-store@playlive.net",
+		"firstname": "Android",
+		"lastname": "Store",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			{
+				"pl": "Lotek i Rutek #3"
+			},
+			"KBN 15",
+			{
+				"pl": "Ściana"
+			},
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			"PUNCHDOWN #4",
+			{
+				"pl": "NO STARS ANYMORE",
+				"en": "NO STARS ANYMORE"
+			}
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"ar9ADIvLbxGkm2gA",
+			"XUZT4t4Lc2nEd-Ma"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"2a00:79e1:abd:9f02:f945:9d34:210b:9276",
+			"95.160.119.55",
+			"2620:15c:b4:200:ccef:b12d:cdc1:6d79"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"t10@playlive.net": {
+		"id": "2af09dd3-dad1-79fe-bb01-dcc002eba99b",
+		"email": "t10@playlive.net",
+		"firstname": "Aaa",
+		"lastname": "Aaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"heW_gTCcEzY4BNlG"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"antoni.rutkowski@streamonline.tv": {
+		"id": "e2d99eda-6374-2924-034f-a221933ae8db",
+		"email": "antoni.rutkowski@streamonline.tv",
+		"firstname": "Antoni",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"HYBRID MMA 4 - NEXT LEVEL",
+			"PRIME 9",
+			"Produkt testowy",
+			"Produkt testowy",
+			"Produkt testowy",
+			"Produkt testowy",
+			"PRIME 9 VOD",
+			"Produkt testowy live 4",
+			"PRIME 13",
+			"FAME 27",
+			"GROMDA 22",
+			"King's Arena"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"VuTbVzkfObw3eLwY"
+		],
+		"IpMonitor": [
+			"185.24.26.46",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dopofej986@luxyss.com": {
+		"id": "f596ebfa-3dbf-dcca-5ccc-995db0bfc882",
+		"email": "dopofej986@luxyss.com",
+		"firstname": "Sasadsa",
+		"lastname": "Sadsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa"
+		],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"antoni.rutkowski98@gmail.com": {
+		"id": "e7feb7dc-514a-aae4-6e4d-f8ba4920e4ae",
+		"email": "antoni.rutkowski98@gmail.com",
+		"firstname": "Antoni",
+		"lastname": "Rutkowski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"xafot97981@nomrista.com": {
+		"id": "87fb34dc-f43e-f835-f5f1-9f21eb5f09f0",
+		"email": "xafot97981@nomrista.com",
+		"firstname": "Dsadas",
+		"lastname": "Dsadasdsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"HxeZxYZmJmyvjvil"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"aron@streamonline.tv": {
+		"id": "e4404575-8c38-2022-7e75-947ccc2ad7af",
+		"email": "aron@streamonline.tv",
+		"firstname": "Aron",
+		"lastname": "Siemieniuk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"SYBuK8tMuUHTCmIT",
+			"NwQVgqxO76HlYsmv",
+			"P493zNAohB87nrwT"
+		],
+		"IpMonitor": [
+			"46.170.213.57",
+			"95.160.119.55",
+			"95.49.126.27"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"aron@streamonline.pl": {
+		"id": "d1d40611-9ff9-f0b3-75eb-9fbeb6ba490a",
+		"email": "aron@streamonline.pl",
+		"firstname": "Aron",
+		"lastname": "Siemieniuk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			{
+				"pl": "Białystok New Pop Festival 2020"
+			},
+			{
+				"pl": "Lotek i Rutek #4"
+			},
+			"OCTAGON No Mercy 10",
+			{
+				"pl": "Sylwia Grzeszczak - Koncert LIVE"
+			},
+			{
+				"pl": "The Czesuaf Show"
+			},
+			{
+				"pl": "Konferencja TEDxKids @ AcademyInterntional"
+			},
+			{
+				"pl": "ACA 109"
+			},
+			"Lotek i Rutek #5",
+			"KBN 15",
+			{
+				"pl": "TEDxWarsaw 2021: Polaryzacja!",
+				"en": "TEDxWarsaw 2021: Polarization!"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			{
+				"pl": "Stand-up Polska na żywo"
+			},
+			"Roast Pudziana",
+			{
+				"pl": "Roast Friza"
+			},
+			"PINK MMA",
+			"Produkt testowy",
+			"SFC Underground - USA",
+			"SFC Underground - Worldwide",
+			"FAME 27"
+		],
+		"transactions": [
+			{
+				"product": "The Czesuaf Show",
+				"channel": "PayNow"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransferS"
+			},
+			{
+				"product": "ACA 109",
+				"channel": "HotPayDB"
+			},
+			{
+				"product": "Stand-up Polska na żywo",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "Stand-up Polska na żywo (UPGRADE)",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"R9WdoVG5G-aZFS~T",
+			"P493zNAohB87nrwT"
+		],
+		"IpMonitor": [
+			"::1",
+			"95.160.119.55",
+			"213.76.110.162",
+			"178.42.136.135"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"aron.siemieniuk@gmail.com": {
+		"id": "cf5af9ff-45aa-0588-9b7b-d5e808ecc76f",
+		"email": "aron.siemieniuk@gmail.com",
+		"firstname": "Aron",
+		"lastname": "Siemieniuk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Royal Division",
+			"Tai Woffinden Testimonial",
+			"Koncert TEAMXSHOW!",
+			"AlkoMaster 2: Wesele - PREMIUM"
+		],
+		"transactions": [
+			{
+				"product": "PUNCHDOWN #4",
+				"channel": "PayPalButton"
+			}
+		],
+		"HashMonitor": [
+			"SYBuK8tMuUHTCmIT",
+			"NwQVgqxO76HlYsmv",
+			"P493zNAohB87nrwT"
+		],
+		"IpMonitor": [
+			"212.180.228.135",
+			"95.160.119.55",
+			"83.9.154.38",
+			"::1",
+			"188.146.34.87"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"aronsiemieniuk@gmail.com": {
+		"id": "b21eb079-b6b1-efe0-63d9-5d0437edfd28",
+		"email": "aronsiemieniuk@gmail.com",
+		"firstname": "Aron",
+		"lastname": "Siemieniuk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"NwQVgqxO76HlYsmv"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"regogen432@discrip.com": {
+		"id": "4ad4352f-aa4f-6ca3-6c20-8215e593326a",
+		"email": "regogen432@discrip.com",
+		"firstname": "...",
+		"lastname": "...",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"qlw8y650NTVYIDzx"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"sicefok729@shouxs.com": {
+		"id": "a6f68932-4e0d-00d9-eadb-fe9a08ce34b0",
+		"email": "sicefok729@shouxs.com",
+		"firstname": "Aaa",
+		"lastname": "Aaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"cecajon994@endibit.com": {
+		"id": "f03a3533-f52b-9849-6162-83cd6e28d6ac",
+		"email": "cecajon994@endibit.com",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"f04ofowq02CWtBrd"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"julien.rongier@aresfighting.com": {
+		"id": "4c66b6e1-a522-733a-a84d-f307a67e2bc8",
+		"email": "julien.rongier@aresfighting.com",
+		"firstname": "Julien",
+		"lastname": "Rongier",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"sprawdzanko@proton.me": {
+		"id": "6fcc0073-632e-a7cd-bb13-affb860b2469",
+		"email": "sprawdzanko@proton.me",
+		"firstname": "Aaaa",
+		"lastname": "Aaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"sprawdzanko2@proton.me": {
+		"id": "45f58086-58cf-be78-c909-4bd82a0d8da5",
+		"email": "sprawdzanko2@proton.me",
+		"firstname": "Aaa",
+		"lastname": "Aaa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bryanwesele@gmail.com": {
+		"id": "9938a6a7-0baf-d500-ea79-333c56b1f00b",
+		"email": "bryanwesele@gmail.com",
+		"firstname": "Bryan",
+		"lastname": "A",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 262,
+				"sendEmail": true,
+				"created": 1756746160981,
+				"ip": false,
+				"customMessage": "Your account bryanwesele@gmail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1756746223824,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"FAME 27"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bryanekslub@gmail.com": {
+		"id": "78515c05-ab3e-6dc7-a45f-79a32e94caa6",
+		"email": "bryanekslub@gmail.com",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"GROMDA 22"
+		],
+		"transactions": [
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"xiweme7301@prorsd.com": {
+		"id": "287dd345-329c-eeca-1796-d57c89888fb1",
+		"email": "xiweme7301@prorsd.com",
+		"firstname": "Saaaaaa",
+		"lastname": "S",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"krzysztof@streamonline.pl": {
+		"id": "03d710e7-eabb-6739-0f91-c4c81d75ae7b",
+		"email": "krzysztof@streamonline.pl",
+		"firstname": "Krzysztof",
+		"lastname": "Og",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			{
+				"pl": "Grzegorz Dolniak Stream Show"
+			},
+			{
+				"pl": "Soul Show"
+			},
+			{
+				"pl": "Pablopavo i ludziki"
+			},
+			{
+				"pl": "Białystok New Pop Festival 2020"
+			},
+			"FAME MMA 13: EXTRAS + PAKIET 10, 11, 12 VOD",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"FAME MMA 10",
+			"LIVE GAME #1",
+			"Produkt testowy",
+			{
+				"pl": "Stand-up Polska na żywo"
+			}
+		],
+		"transactions": [
+			{
+				"product": "Grzegorz Dolniak Stream Show",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": {
+					"pl": "GROMDA 2"
+				},
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "Stand-up Polska na żywo",
+				"channel": "HotPayTransfer"
+			}
+		],
+		"HashMonitor": [
+			"cYc_hmHHJ8LcyxrJ",
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"78.131.235.66",
+			"95.160.119.55",
+			"46.170.213.57"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"krzysztof.gastolek@streamonline.tv": {
+		"id": "8fe58a03-8b1c-9bbd-049d-38233edf5d2f",
+		"email": "krzysztof.gastolek@streamonline.tv",
+		"firstname": "A",
+		"lastname": "B",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"HxeZxYZmJmyvjvil",
+			"iQ7acY2GX-fahNf6",
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dawerem345@xcmexico.com": {
+		"id": "deb3fa3d-2d65-d27b-9ac6-7d2a3bc39a41",
+		"email": "dawerem345@xcmexico.com",
+		"firstname": "Abc",
+		"lastname": "ACb",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"Nn6-Puvm6TUV7cSe"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dawid.dominski@streamonline.tv": {
+		"id": "48b2a0fb-25c7-e240-c2ff-f452f8bbe2b4",
+		"email": "dawid.dominski@streamonline.tv",
+		"firstname": "Dawid",
+		"lastname": "Dominski",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"SuperEnduro Round 6 UK 365",
+			"SHAQ ALL STARS LEAGUE",
+			"Lotek i Rutek pakiet odc. 1-5",
+			"FAME 27",
+			"Lotek i Rutek pakiet odc. 1-5"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"es192CtKiyeHozkJ",
+			"XUZT4t4Lc2nEd-Ma",
+			"1cf72uWqC4Ixf_AG",
+			"IlkYBEHscc0g4yLa",
+			"NsxBaLcHZdrgXRJu",
+			"qlw8y650NTVYIDzx",
+			"3gXVA4YOCdJq28fE"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"188.146.32.72",
+			"188.146.62.108"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dawidstreambasic@gmail.com": {
+		"id": "ef4da41e-8dbf-d0f7-8bc9-4bb1484c7a55",
+		"email": "dawidstreambasic@gmail.com",
+		"firstname": "Dawid",
+		"lastname": "Domiński",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 255,
+				"sendEmail": true,
+				"customMessage": "SDADSAD",
+				"created": 1749827059948,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1749827249757,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 50,
+				"sendEmail": true,
+				"customMessage": "aaaaa",
+				"created": 1750076963408,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1750078317401,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 50,
+				"sendEmail": true,
+				"customMessage": "aaa",
+				"created": 1750078330655,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1750078492321,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"WBW 2025 - Pakiet 7 eliminacji i finał",
+			"WBW 2025 Eliminacje 1 - Kraków",
+			"WBW 2025 Eliminacje 2 - Szczecin",
+			"WBW 2025 Eliminacje 3 - Wrocław",
+			"WBW 2025 Eliminacje 4 - Gdynia",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"WBW 2025 Eliminacje 6 - Poznań",
+			"WBW 2025 Eliminacje 7 - Katowice",
+			"WBW 2025 - Wielki Finał",
+			"Roast Stanowskiego",
+			"PRIME 12",
+			"PFC POLAND",
+			"Produkt testowy live 4",
+			"XTB KSW 107",
+			"Lotek i Rutek pakiet odc. 1-5",
+			"Lotek i Rutek pakiet odc. 1-5",
+			"XTB KSW 107",
+			"PRIME 13",
+			"FAME 26",
+			"ŚLUB W 30 DNI",
+			"WBW 2025 Eliminacje 4 - Gdynia",
+			"WBW 2025 Eliminacje 2 - Szczecin VOD",
+			"Produkt testowy live 4",
+			"FAME 27",
+			"GROMDA 22",
+			"CLASH 13"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"gN2I8kQmkscJMB9V",
+			"es192CtKiyeHozkJ",
+			"XUZT4t4Lc2nEd-Ma",
+			"1cf72uWqC4Ixf_AG",
+			"IlkYBEHscc0g4yLa",
+			"NsxBaLcHZdrgXRJu",
+			"qlw8y650NTVYIDzx",
+			"3gXVA4YOCdJq28fE"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"188.146.32.72",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dawidstreampremium@gmail.com": {
+		"id": "1fecaf2b-a66c-95e6-8206-27dc36bc2cf1",
+		"email": "dawidstreampremium@gmail.com",
+		"firstname": "Dawid",
+		"lastname": "",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"PRIME 12",
+			"PFC POLAND",
+			"XTB KSW 107",
+			"PRIME 13",
+			"FAME 26",
+			"XTB KSW 108",
+			"XTB KSW 109",
+			"FAME 27",
+			"GROMDA 22",
+			"XTB KSW 110",
+			"CLASH 13",
+			"PRIME 14"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"XUZT4t4Lc2nEd-Ma",
+			"IlkYBEHscc0g4yLa",
+			"NsxBaLcHZdrgXRJu",
+			"qlw8y650NTVYIDzx",
+			"gN2I8kQmkscJMB9V",
+			"3gXVA4YOCdJq28fE"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"krzysztof.rozpara@famemma.com": {
+		"id": "4dca6b80-888f-84a7-3ff4-ff2a5851b8b2",
+		"email": "krzysztof.rozpara@famemma.com",
+		"firstname": "Krzysztof",
+		"lastname": "Rozpara",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"Pn85uzd8xV-Vw5bq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dev-test@streamonline.pl": {
+		"id": "ab21f8fd-f61e-b66e-7ae3-ecf2608a096e",
+		"email": "dev-test@streamonline.pl",
+		"firstname": "Dev-",
+		"lastname": "Test",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"NsxBaLcHZdrgXRJu"
+		],
+		"IpMonitor": [
+			"46.170.213.59",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"rivemas623@benznoi.com": {
+		"id": "f5add2bc-6b3e-9d7c-5551-b3680f5ad97e",
+		"email": "rivemas623@benznoi.com",
+		"firstname": "Dawid",
+		"lastname": "Dsafsd",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"IlkYBEHscc0g4yLa"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"titod30345@iminko.com": {
+		"id": "04f07f59-7289-fe2b-d1f1-619a978b4469",
+		"email": "titod30345@iminko.com",
+		"firstname": "Abccc",
+		"lastname": "Agefefe",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamil.dryk@proton.me": {
+		"id": "728b0586-487c-94e5-5598-f84f6e40cf30",
+		"email": "kamil.dryk@proton.me",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"EA_mRmnWiWgdMWaf"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"h51823802@gmail.com": {
+		"id": "303d1222-4d82-ae99-88a0-0c23562285af",
+		"email": "h51823802@gmail.com",
+		"firstname": "Hubert",
+		"lastname": "Abc",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamildk8@o2.pl": {
+		"id": "c08d5247-f3bf-992b-6916-192500daf8b7",
+		"email": "kamildk8@o2.pl",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"5vNlLGZuPomXMgKn"
+		],
+		"IpMonitor": [
+			"195.191.163.188",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"streamonlinetest@gmail.com": {
+		"id": "48b3a938-bc91-d1ea-d5d3-877d0eb94300",
+		"email": "streamonlinetest@gmail.com",
+		"firstname": "Dawid",
+		"lastname": "Stream",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"qlw8y650NTVYIDzx"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamildk8@gmail.com": {
+		"id": "07d261a7-9544-f58d-7bd7-e34bb3a8030e",
+		"email": "kamildk8@gmail.com",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"CLASH 13",
+			"GROMDA 22",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27 (UPGRADE)",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "CLASH 13",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"5vNlLGZuPomXMgKn",
+			"yqlizMiv964JZuIM",
+			"XUZT4t4Lc2nEd-Ma"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"2a02:26f7:c940:4b40:0:d000:0:f"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kopix25953@cerisun.com": {
+		"id": "186bb803-b549-faad-9244-38af0eb054a8",
+		"email": "kopix25953@cerisun.com",
+		"firstname": "KKK",
+		"lastname": "KKK",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"HxeZxYZmJmyvjvil"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamil.dryk@streamonline.com.pl": {
+		"id": "0841e678-dbe1-83b9-0f13-2ba587d0d329",
+		"email": "kamil.dryk@streamonline.com.pl",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"RXF TEST",
+			"XTB KSW 110",
+			"GROMDA 22 - VOD",
+			"CLASH 13",
+			"PRIME 14",
+			"GROMDA 22 - VOD",
+			"GROMDA 5",
+			"GROMDA 7",
+			"WBW 2025 Eliminacje 7 - Katowice"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"5vNlLGZuPomXMgKn",
+			"VxMQmvZyXKIfn6ac",
+			"yqlizMiv964JZuIM",
+			"XUZT4t4Lc2nEd-Ma"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"62.122.113.136"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"fe9725c0f77b1@gmail.com": {
+		"id": "7613fffe-1c7d-f4d1-a46f-642137cdc2cc",
+		"email": "fe9725c0f77b1@gmail.com",
+		"firstname": "-",
+		"lastname": "-",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"PREMIUM PRODUCT"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"7e4ad54919f8@gmail.com": {
+		"id": "a32b8a42-74e0-4e4f-bd06-eae420913d3b",
+		"email": "7e4ad54919f8@gmail.com",
+		"firstname": "-",
+		"lastname": "-",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"PREMIUM PRODUCT"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamil.dryk@streamonline.pl": {
+		"id": "c6f168b0-263a-fb48-8201-de03a6ad4a33",
+		"email": "kamil.dryk@streamonline.pl",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Clash of the Stars I",
+			"FAME MMA 13: EXTRAS + PAKIET 10, 11, 12 VOD",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"FAME MMA 10",
+			{
+				"pl": "Innovation 2020"
+			},
+			"Roast Pudziana",
+			{
+				"pl": "Roast Friza"
+			},
+			"FAME MMA 13: EXTRAS",
+			"WOTORE 5",
+			"Royal Division",
+			"Human Future Design",
+			"FAME MMA 14: EXTRAS + PAKIET 11, 12, 13 VOD",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"FAME MMA 11",
+			"FAME MMA 14",
+			"FAME MMA 14: EXTRAS",
+			"PINK MMA",
+			"Royal Division",
+			"Clash of the Stars I",
+			"Fist Universe",
+			"FAME MMA 16: EXTRAS",
+			"Produkt testowy",
+			"Heroes Gate 27",
+			"AlkoMaster 2: Wesele - BASIC",
+			"Fist Universe 2",
+			"Fist Universe",
+			"Underground Boxing Night 3",
+			"XTB KSW 107",
+			"FAME 27"
+		],
+		"transactions": [
+			{
+				"product": "XTB KSW 107",
+				"channel": "StripeCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"EA_mRmnWiWgdMWaf",
+			"XUZT4t4Lc2nEd-Ma",
+			"VxMQmvZyXKIfn6ac",
+			"5vNlLGZuPomXMgKn",
+			"yqlizMiv964JZuIM"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55",
+			"62.122.113.111",
+			"2a09:bac3:4f9e:2a0::43:2a"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamildk8@gmail.com1751641981695": {
+		"id": "816b2d13-3294-db85-da96-afe2a73c232b",
+		"email": "kamildk8@gmail.com1751641981695",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Clash of the Stars I",
+			"WOTORE 5",
+			"Royal Division",
+			"The War 4",
+			"Strzyga z naszej klasy",
+			"Fist Universe 2",
+			"The Ring 9",
+			"Show Me The Money",
+			"PANZER KICKBOXING NIGHT 6",
+			"HYBRID MMA 4 - NEXT LEVEL",
+			"WBW 2024 Eliminacje 2 - Gdynia",
+			"Underground Boxing Night 3",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"PRIME 11",
+			"SuperEnduro Round 3 Romania VOD",
+			"Ali Achmedow vs. Maciej Sulęcki",
+			"WBW 2025 Eliminacje 1 - Kraków",
+			"WBW 2025 Eliminacje 2 - Szczecin",
+			"WBW 2025 Eliminacje 3 - Wrocław",
+			"WBW 2025 Eliminacje 4 - Gdynia",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"WBW 2025 Eliminacje 6 - Poznań",
+			"WBW 2025 Eliminacje 7 - Katowice",
+			"WBW 2025 - Wielki Finał",
+			"BUF PVP Season 1",
+			"KBN 15",
+			"SHAQ ALL STARS LEAGUE",
+			"Warsaw Boxing Cup",
+			"Hold and Hit 3 - Katharsis",
+			"ARES 30 - BAKI’S BACK!",
+			"PRIME 12",
+			"XTB KSW 107"
+		],
+		"transactions": [
+			{
+				"product": "BUF PVP Season 1",
+				"channel": "StripeCheckout"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "PRIME 12",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "XTB KSW 107",
+				"channel": "StripeCheckout"
+			}
+		],
+		"HashMonitor": [
+			"U2ISSFX0G~h.l53W",
+			"EA_mRmnWiWgdMWaf",
+			"XUZT4t4Lc2nEd-Ma",
+			"VxMQmvZyXKIfn6ac",
+			"f04ofowq02CWtBrd"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55",
+			"2a09:bac2:4fa6:2f0::4b:cc",
+			"62.122.113.26",
+			"193.164.142.120",
+			"62.122.113.111"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamil.dryk@streamonline.com.pl1758284514841": {
+		"id": "a9f38171-8f14-469d-06e1-5655243c88eb",
+		"email": "kamil.dryk@streamonline.com.pl1758284514841",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "US",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666179012909,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.com.pl  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666179176845,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666179382132,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.com.pl  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666179854908,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666180429475,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.com.pl  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666180472094,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1669382402975,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.com.pl  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1669382497968,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"WOTORE 5",
+			"HIGH LEAGUE #1",
+			"The War 4",
+			"The War 4",
+			"Bitva o Frýdlant X",
+			"PAŁUSKA KICKBOXING NIGHT 5 ",
+			"Moc Bez Ograniczeń - BASIC",
+			"Kingpyn Boxing Live",
+			"FAME MMA 17",
+			"FAME MMA 17: EXTRAS",
+			"Strzyga z naszej klasy",
+			"HYBRID MMA I - POCZĄTEK",
+			"Fist Universe 2",
+			"The Ring 9",
+			{
+				"pl": "NO STARS ANYMORE",
+				"en": "NO STARS ANYMORE"
+			},
+			"HYBRID MMA 4 - NEXT LEVEL",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"PRIME II",
+			"Underground Boxing Night 3",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała",
+			{
+				"pl": "Olsztyn Green PLAŻÓWKA 2020"
+			},
+			"PRIME 9",
+			"Produkt testowy live 4",
+			"Produkt testowy live 4",
+			"Prime MMA 10",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"SuperEnduro Season Pass",
+			"SuperEnduro Round 1 Gliwice",
+			"SuperEnduro Round 2 Germany",
+			"SuperEnduro Round 3 Romania 365",
+			"SuperEnduro Round 4 Poland Łódź 365",
+			"SuperEnduro Round 5 Hungary 365",
+			"SuperEnduro Round 6 UK 365",
+			"SupeEnduro Round 7 France 365",
+			"Ring of Fury",
+			"Super Enduro Round 2 Germany VOD",
+			"Bitwa Dwójek WBW 2vs2",
+			"Roast Stanowskiego",
+			"Ali Achmedow vs. Maciej Sulęcki",
+			"SHAQ ALL STARS LEAGUE",
+			"Warsaw Boxing Cup",
+			"PRIME 12",
+			"ARES 30 - BAKI’S BACK!",
+			"PFC POLAND",
+			"XTB KSW 107",
+			"PRIME 13",
+			"FAME 26",
+			"XTB KSW 108",
+			"ŚLUB W 30 DNI",
+			"XTB KSW 109",
+			"ARES 34",
+			"",
+			"FAME 27",
+			"KBN 15",
+			"FAME 27",
+			"CLASH 13",
+			"King's Arena",
+			"XTB KSW 110"
+		],
+		"transactions": [
+			{
+				"product": "Olsztyn Green PLAŻÓWKA 2020",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "WBW 2024 Eliminacje 7 - Poznań",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "SHAQ ALL STARS LEAGUE",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "XTB KSW 107",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "XTB KSW 110",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"EA_mRmnWiWgdMWaf",
+			"XUZT4t4Lc2nEd-Ma",
+			"VxMQmvZyXKIfn6ac",
+			"f04ofowq02CWtBrd",
+			"5vNlLGZuPomXMgKn",
+			"yqlizMiv964JZuIM"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55",
+			"46.170.213.59",
+			"88.156.143.11",
+			"62.122.113.111"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamil.dryk@streamonline.co.uk": {
+		"id": "b7d781ca-7458-3ed8-42a4-b9ff43eef104",
+		"email": "kamil.dryk@streamonline.co.uk",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666779945370,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1666780014553,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1694094891017,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1694094948540,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1745499585434,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1745499712144,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749735791268,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749735855204,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749736139872,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749736223881,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"invalidateProduct": 255,
+				"created": 1749737174840,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749737240819,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749737733049,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749737864610,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749738213178,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749738294813,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749744999568,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749745245322,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749747177608,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749747275237,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749810692381,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749811053456,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749811240186,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1749811329679,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1752766029326,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"created": 1752766124599,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1756480871399,
+				"ip": false,
+				"customMessage": "Your account kamil.dryk@streamonline.co.uk  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "kamil.dryk@streamonline.pl",
+				"sendEmail": true,
+				"created": 1756480910714,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"Roast Pudziana",
+			"WOTORE 5",
+			"PINK MMA",
+			"Tai Woffinden Testimonial",
+			"Fist Universe",
+			"HIGH LEAGUE #1",
+			"Clash of the Stars 2",
+			"LIVE GAME #1",
+			"FAME MMA 15: EXTRAS",
+			"FAME MMA 15: EXTRAS + PAKIET 12, 13, 14 VOD",
+			"FAME MMA 14: EXTRAS",
+			"FAME MMA 13: EXTRAS",
+			"FAME MMA 12: EXTRAS",
+			"FAME MMA 14",
+			"FAME MMA 13",
+			"FAME MMA 12",
+			"The War 4",
+			"The War 4",
+			"WOTORE 5",
+			"FAME MMA 14",
+			"FAME MMA 14: EXTRAS",
+			"Bitva o Frýdlant X",
+			"Rage Combat",
+			"FAME MMA 15",
+			"FAME MMA 15: EXTRAS",
+			"Produkt testowy",
+			"FAME MMA 17: EXTRAS",
+			"PAŁUSKA KICKBOXING NIGHT 5 ",
+			"Moc Bez Ograniczeń - PREMIUM",
+			"Hokej - Houška VS Lang",
+			"Hokej - Houška VS Lang",
+			"VALHALLA FIGHTING - BASIC",
+			"SFC Underground - Worldwide",
+			"SFC Underground - USA",
+			"AlkoMaster 2: Wesele - PREMIUM",
+			"AlkoMaster 2: Wesele - PREMIUM",
+			"RoyalDivision",
+			"Produkt testowy",
+			"RED FACE II",
+			"HIGH LEAGUE #1",
+			"SFC Underground - Worldwide",
+			"Strzyga z naszej klasy",
+			"HYBRID MMA I - POCZĄTEK",
+			"Fist Universe 2",
+			"The Ring 9",
+			"Najman Show",
+			"GFN 5 Ostrava",
+			"Fist Universe",
+			"Show Me The Money",
+			"WBW 2024 Eliminacje 1 - Kraków",
+			"PANZER KICKBOXING NIGHT 6",
+			"Red Face III VOD",
+			"Produkt testowy",
+			"PANZER KICKBOXING NIGHT 6",
+			{
+				"pl": "NO STARS ANYMORE",
+				"en": "NO STARS ANYMORE"
+			},
+			"Underground Boxing Night 3",
+			"Underground Boxing Night 3",
+			"EMF EURO 2024 – Multipass",
+			"EMF EURO 2024 - DAY 1",
+			"EMF EURO 2024 - DAY 2",
+			"EMF EURO 2024 - DAY 3",
+			"EMF EURO 2024 - DAY 4",
+			"EMF EURO 2024 – LAST 16",
+			"EMF EURO 2024 – Quarterfinals",
+			"EMF EURO 2024 – Semifinals",
+			"EMF EURO 2024 – Final Day",
+			"PRIME 9",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"Strike King 3",
+			"Prime MMA 10",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"SuperEnduro Season Pass",
+			"SuperEnduro Round 1 Gliwice",
+			"SuperEnduro Round 2 Germany",
+			"SuperEnduro Round 3 Romania 365",
+			"SuperEnduro Round 4 Poland Łódź 365",
+			"SuperEnduro Round 5 Hungary 365",
+			"SuperEnduro Round 6 UK 365",
+			"SupeEnduro Round 7 France 365",
+			"Produkt testowy live 4",
+			"SuperEnduro Round 1 Gliwice",
+			"PRIME 11",
+			"Roast Stanowskiego",
+			"Bitwa Dwójek WBW 2vs2",
+			"Roast Stanowskiego",
+			"Ali Achmedow vs. Maciej Sulęcki",
+			"Hold and Hit 3 - Katharsis",
+			"KBN 15",
+			"SHAQ ALL STARS LEAGUE",
+			"PRIME 12",
+			"PFC POLAND",
+			"XTB KSW 107",
+			"XTB KSW 107",
+			"XTB KSW 108",
+			"XTB KSW 107",
+			"FAME 26",
+			"RXF 50",
+			"PFC POLAND",
+			"WBW 2025 Eliminacje 3 - Wrocław",
+			"XTB KSW 109",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"KBN 15",
+			"FAME 27",
+			"CLASH 13",
+			"XTB KSW 110",
+			"SFC Underground - Worldwide",
+			"PRIME 14",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "Najman Show",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "SHAQ ALL STARS LEAGUE",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "XTB KSW 107",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "RXF 50",
+				"channel": "StripeCheckout"
+			},
+			{
+				"product": "PFC POLAND",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "WBW 2025 Eliminacje 3 - Wrocław",
+				"channel": "StripeCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "PRIME 14",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"EA_mRmnWiWgdMWaf",
+			"XUZT4t4Lc2nEd-Ma",
+			"VxMQmvZyXKIfn6ac",
+			"f04ofowq02CWtBrd",
+			"Q9krlMvZOx_88tiL",
+			"yqlizMiv964JZuIM",
+			"5vNlLGZuPomXMgKn"
+		],
+		"IpMonitor": [
+			"213.76.110.163",
+			"95.160.119.55",
+			"213.76.110.162",
+			"62.122.113.253",
+			"2a09:bac2:4f99:2a0::43:68"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"kamil.dryk@streamonline.tv": {
+		"id": "5fb50d58-40c8-df54-e89b-a86b62e1848f",
+		"email": "kamil.dryk@streamonline.tv",
+		"firstname": "Kamil",
+		"lastname": "Dryk",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Fight Rose 4 Arena Walk",
+			"HYBRID MMA I - POCZĄTEK",
+			"Fist Universe 2",
+			"Fist Universe",
+			"The Ring 9",
+			"SuperEnduro Round 4 Poland Łódź",
+			"Bitwa Dwójek WBW 2vs2",
+			"Ali Achmedow vs. Maciej Sulęcki",
+			"WBW 2025 - Pakiet 7 eliminacji i finał",
+			"WBW 2025 Eliminacje 1 - Kraków",
+			"WBW 2025 Eliminacje 2 - Szczecin",
+			"WBW 2025 Eliminacje 3 - Wrocław",
+			"WBW 2025 Eliminacje 4 - Gdynia",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"WBW 2025 Eliminacje 6 - Poznań",
+			"WBW 2025 Eliminacje 7 - Katowice",
+			"WBW 2025 - Wielki Finał",
+			"SHAQ ALL STARS LEAGUE",
+			"Warsaw Boxing Cup",
+			"PFC POLAND",
+			"XTB KSW 107",
+			"PRIME 13",
+			"FAME 27",
+			"FAME 27",
+			"KBN 15",
+			"GROMDA 22",
+			"GROMDA 11",
+			"CLASH 13",
+			"King's Arena",
+			"ARES 35"
+		],
+		"transactions": [
+			{
+				"product": "SHAQ ALL STARS LEAGUE",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "XTB KSW 107",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "KBN 15",
+				"channel": "HotPayTransfer"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "CLASH 13",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"EA_mRmnWiWgdMWaf",
+			"XUZT4t4Lc2nEd-Ma",
+			"VxMQmvZyXKIfn6ac",
+			"yqlizMiv964JZuIM",
+			"f04ofowq02CWtBrd",
+			"5vNlLGZuPomXMgKn"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"hojer47550@mvpmedix.com": {
+		"id": "2363b35d-f791-c7e2-cef3-a41b189789ec",
+		"email": "hojer47550@mvpmedix.com",
+		"firstname": "...",
+		"lastname": "...",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"HxeZxYZmJmyvjvil"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"visiw71840@shouxs.com": {
+		"id": "ff126f91-f2a6-9975-16c7-fa089c3ba3fe",
+		"email": "visiw71840@shouxs.com",
+		"firstname": " ",
+		"lastname": " ",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"cypress@playlive.net": {
+		"id": "4151237b-a2c7-0cf6-4674-c628e1664a2b",
+		"email": "cypress@playlive.net",
+		"firstname": "Cypress",
+		"lastname": "Test",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"WqoEKeRljjzbiq9J"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"vexew98224@abaot.com": {
+		"id": "b09c432d-2d69-3f38-f74c-0a6f02711bce",
+		"email": "vexew98224@abaot.com",
+		"firstname": "Sjda",
+		"lastname": "Sads",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"GnIF_cikdaXfIVyL"
+		],
+		"IpMonitor": [
+			"46.170.213.61",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"sebastian.vieru@dms.ro": {
+		"id": "42bd568e-5781-bd9c-4bc9-c805ce9783e5",
+		"email": "sebastian.vieru@dms.ro",
+		"firstname": "Sebastian",
+		"lastname": "Vieru",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"Pn85uzd8xV-Vw5bq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"tobiasz290300@wp.pl": {
+		"id": "71480032-03b3-7a93-525d-c2b344de0fd3",
+		"email": "tobiasz290300@wp.pl",
+		"firstname": "Sadas",
+		"lastname": "Asd",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"Q9krlMvZOx_88tiL"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"dosoc89343@perceint.com": {
+		"id": "922d2050-4494-eb17-15b3-4d2d63c42908",
+		"email": "dosoc89343@perceint.com",
+		"firstname": "Qqq",
+		"lastname": "Qqq",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"alexandru.iulian.grama@dms.ro": {
+		"id": "9a7c2bb5-9215-097a-77a1-ee56acb73d59",
+		"email": "alexandru.iulian.grama@dms.ro",
+		"firstname": "Alexandru",
+		"lastname": "Grama",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"Pn85uzd8xV-Vw5bq"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartosz.plaza@streamonline.tv": {
+		"id": "d22c789e-0d7b-975b-29ee-4582f8409883",
+		"email": "bartosz.plaza@streamonline.tv",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Lotek i Rutek pakiet odc. 1-5",
+			"Produkt testowy",
+			"RED FACE II",
+			"Najman Show",
+			"Fight Rose 4 Arena Walk",
+			"HYBRID MMA I - POCZĄTEK",
+			"Strzyga z naszej klasy",
+			"AlkoMaster 2: Wesele - PREMIUM",
+			"",
+			"The Ring 9",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 - Gdynia",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"Produkt testowy",
+			"Underground Boxing Night 3",
+			"RED FACE 4",
+			"ŚLUB W 30 DNI",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "XTB KSW 111",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"ZwYooKM6tXUhNgwf",
+			"ShX7DCSu4BHWNf_Q",
+			"Pn85uzd8xV-Vw5bq",
+			"Q9krlMvZOx_88tiL",
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"31.0.93.144",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartosz290300@gmail.com1753965582057": {
+		"id": "e1423103-5a23-7c46-832b-ca8644db02e3",
+		"email": "bartosz290300@gmail.com1753965582057",
+		"firstname": "Bartosz",
+		"lastname": "Bartosz",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"Underground Boxing Night 3",
+			"PRIME 9 VOD",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"SuperEnduro Round 1 Gliwice",
+			"Ring of Fury",
+			"BUF PVP Season 1",
+			"SHAQ ALL STARS LEAGUE"
+		],
+		"transactions": [
+			{
+				"product": "Underground Boxing Night 3",
+				"channel": "HotPayTransfer"
+			}
+		],
+		"HashMonitor": [
+			"ShX7DCSu4BHWNf_Q",
+			"Pn85uzd8xV-Vw5bq",
+			"Q9krlMvZOx_88tiL",
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"2a02:a31a:c246:7b80:1484:a3e7:b379:e98",
+			"95.160.119.55",
+			"46.170.213.59"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartoszbasic@proton.me": {
+		"id": "18e4b13a-2893-3579-f0ef-d4c19214f15e",
+		"email": "bartoszbasic@proton.me",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 193,
+				"customMessage": "hello",
+				"created": 1729868955192,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"created": 1729868970800,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 255,
+				"sendEmail": true,
+				"created": 1749739661213,
+				"ip": false,
+				"customMessage": "Your account bartoszbasic@proton.me  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1749816478643,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 121,
+				"sendEmail": true,
+				"noteBody": "asfdasfas fddasdf ",
+				"created": 1759931852580,
+				"ip": false,
+				"customMessage": "Your account bartoszbasic@proton.me  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1760521494357,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"HYBRID MMA I - POCZĄTEK",
+			"FAME MMA 9, 10, 11 PAKIET VOD",
+			"FAME MMA 11: EXTRAS",
+			"FAME MMA 10: EXTRAS",
+			"FAME MMA 9: EXTRAS",
+			"THE RING 10 BRNO",
+			"Show Me The Money",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW 2024 Eliminacje 1 - Kraków",
+			"WBW 2024 Eliminacje 2 - Gdynia",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"HYBRID MMA 4 - NEXT LEVEL",
+			"Produkt testowy",
+			"Underground Boxing Night 3",
+			"Underground Boxing Night 3",
+			"Produkt testowy",
+			"PRIME 9",
+			"PRIME 9 VOD",
+			"Mecz 4 liga SMS",
+			{
+				"pl": "Pablopavo i ludziki"
+			},
+			"Produkt testowy live 4",
+			"Produkt testowy live 4",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"Strike King 3",
+			"Produkt testowy live 4",
+			"Produkt testowy live 4",
+			"Prime MMA 10",
+			"Prime MMA 10",
+			"Prime MMA 10",
+			"Prime MMA 10",
+			"Produkt testowy live 4",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"BC RING 2",
+			"PRIME 11",
+			"Hold'n'Hit 2 Return",
+			"PRIME 11 VOD",
+			"Roast Stanowskiego",
+			"Roast Stanowskiego",
+			"SuperEnduro Round 7 France",
+			"SHAQ ALL STARS LEAGUE",
+			"SHAQ ALL STARS LEAGUE",
+			"WBW 2025 Eliminacje 2 - Szczecin VOD",
+			"ARES 30 - BAKI’S BACK!",
+			"WBW 2025 Eliminacje 3 - Wrocław",
+			"PRIME 12",
+			"PRIME 12",
+			"Produkt testowy live 4",
+			"WBW 2025 Eliminacje 4 - Gdynia",
+			"ŚLUB W 30 DNI",
+			"ŚLUB W 30 DNI",
+			"PFC POLAND",
+			"PFC POLAND",
+			"XTB KSW 108",
+			"Lotek i Rutek pakiet odc. 1-5",
+			"PRIME 13",
+			"RXF 50",
+			"PRIME 13",
+			"FAME 26",
+			"PRIME TIME",
+			"FAME 27",
+			"FAME 27",
+			"GROMDA 22",
+			"GROMDA 22",
+			"GROMDA 22",
+			"CLASH 13",
+			"CLASH 13",
+			"",
+			"GROMDA 22 - VOD",
+			"PREMIUM PRODUCT",
+			"CLASH 13",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "RXF 50",
+				"channel": "StripeCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "HotPayPSC"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22 - VOD",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "CLASH 13",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "XTB KSW 111",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"ShX7DCSu4BHWNf_Q",
+			"Pn85uzd8xV-Vw5bq",
+			"Q9krlMvZOx_88tiL",
+			"QU20wYosu5-_as5n",
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55",
+			"31.0.85.253",
+			"2a02:a31a:c2fe:f480:6d71:299b:8f3b:92d6"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartoszpremium@proton.me": {
+		"id": "0fd3f5da-3243-9a60-8439-a470ae846858",
+		"email": "bartoszpremium@proton.me",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 186,
+				"sendEmail": true,
+				"created": 1722691324736,
+				"ip": false,
+				"customMessage": "Your account bartoszpremium@proton.me  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1722691372836,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 174,
+				"sendEmail": true,
+				"created": 1722693397926,
+				"ip": false,
+				"customMessage": "Your account bartoszpremium@proton.me  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1722693892061,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 255,
+				"sendEmail": true,
+				"customMessage": "aaaa",
+				"created": 1749738906363,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1749739134193,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 255,
+				"sendEmail": true,
+				"customMessage": "aaaaa",
+				"created": 1749739250644,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1749740196338,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 255,
+				"sendEmail": true,
+				"customMessage": "sdfsdfsdfsdf",
+				"created": 1749741076268,
+				"ip": false
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1749816511830,
+				"ip": false
+			},
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 291,
+				"sendEmail": true,
+				"created": 1758822972834,
+				"ip": false,
+				"customMessage": "Your account bartoszpremium@proton.me  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1758893057821,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"Fist Universe 2",
+			"Fist Universe",
+			"GFN 5 Ostrava",
+			"The Ring 9",
+			"GFN 5 Ostrava",
+			"The Ring 9",
+			"Fist Universe 2",
+			"Fist Universe",
+			"Fist Universe",
+			"Najman Show",
+			"Strzyga z naszej klasy",
+			"RED FACE 3",
+			"THE RING 10 BRNO",
+			"WBW 2024 - Pakiet",
+			"WBW 2024 Eliminacje 1 - Kraków",
+			"WBW 2024 Eliminacje 2 - Gdynia",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"Show Me The Money",
+			"Red Face III",
+			"Produkt testowy",
+			"HYBRID MMA 4 - NEXT LEVEL",
+			"WBW 2024 Eliminacje 2 - Gdynia",
+			"PANZER KICKBOXING NIGHT 6",
+			"WBW 2024 Eliminacje 2 - Gdynia",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"Underground Boxing Night 3",
+			"EMF EURO 2024 – Multipass",
+			"EMF EURO 2024 - DAY 1",
+			"EMF EURO 2024 - DAY 2",
+			"EMF EURO 2024 - DAY 3",
+			"EMF EURO 2024 - DAY 4",
+			"EMF EURO 2024 – LAST 16",
+			"EMF EURO 2024 – Quarterfinals",
+			"EMF EURO 2024 – Semifinals",
+			"EMF EURO 2024 – Final Day",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"BEZ GRANIC",
+			"RED FACE 4",
+			"PRIME 9",
+			"PRIME VII",
+			"PRIME VIII",
+			"PRIME 9",
+			"PRIME 9 VOD",
+			"PRIME VII",
+			"PRIME VIII",
+			"Produkt testowy",
+			"Produkt testowy",
+			"PRIME 9 VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"Mecz 4 liga SMS",
+			"Produkt testowy",
+			"WBW 2024 El. 5 Wrocław - VOD",
+			"Produkt testowy live 4",
+			"Produkt testowy live 4",
+			"Prime MMA 10",
+			{
+				"pl": "Stand-up Polska na żywo #2"
+			},
+			"Lotek i Rutek pakiet odc. 1-5",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"Produkt testowy live 4",
+			"CLOUT MMA 5 VOD",
+			"Ring of Fury",
+			"SuperEnduro Season Pass",
+			"SuperEnduro Round 1 Gliwice",
+			"SuperEnduro Round 2 Germany",
+			"SuperEnduro Round 3 Romania 365",
+			"SuperEnduro Round 4 Poland Łódź 365",
+			"SuperEnduro Round 5 Hungary 365",
+			"SuperEnduro Round 6 UK 365",
+			"SupeEnduro Round 7 France 365",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 Eliminacje 5 - Wrocław",
+			"WBW 2024 Eliminacje 6 - Białystok",
+			"WBW 2024 Eliminacje 7 - Poznań",
+			"WBW 2024 Finał - Warszawa",
+			"WBW 2024 Finał - Warszawa",
+			"WBW 2024 - Pakiet 7 eliminacji i finał",
+			"WBW Eliminacje 1 - Kraków VOD  ",
+			"WBW 2024 Eliminacje 2 Gdynia VOD",
+			"WBW 2024 Eliminacje 3 - Warszawa VOD",
+			"WBW 2024 Eliminacje 4 - Bielsko-Biała VOD",
+			"WBW 2024 El. 5 Wrocław - VOD",
+			"WBW 2024 El. 6 Białystok - VOD",
+			"WBW 2024 El. 7 - VOD",
+			"WBW 2024 Finał - Warszawa",
+			"BC RING 2",
+			"PRIME 11",
+			"SuperEnduro Round 2 Germany",
+			"PINK MMA",
+			"Hold'n'Hit 2 Return",
+			"PRIME 11 VOD",
+			"SuperEnduro Round 3 Romania",
+			"Produkt testowy live 4",
+			"SuperEnduro Round 4 Poland Łódź ",
+			"BARTOSZ TEST 1",
+			"SuperEnduro Round 5 Hungary",
+			"Roast Stanowskiego",
+			"Bitwa Dwójek WBW 2vs2",
+			"Produkt testowy live 4",
+			"Ali Achmedow vs. Maciej Sulęcki",
+			"Ali Achmedow vs. Maciej Sulęcki",
+			"Bitwa Dwójek WBW 2vs2",
+			"Roast Stanowskiego",
+			"SuperEnduro Round 6 UK",
+			"WBW 2025 - Pakiet 7 eliminacji i finał",
+			"WBW 2025 Eliminacje 1 - Kraków",
+			"WBW 2025 Eliminacje 2 - Szczecin",
+			"WBW 2025 Eliminacje 3 - Wrocław",
+			"WBW 2025 Eliminacje 4 - Gdynia",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"WBW 2025 Eliminacje 6 - Poznań",
+			"WBW 2025 Eliminacje 7 - Katowice",
+			"WBW 2025 - Wielki Finał",
+			"SuperEnduro Round 7 France",
+			"BUF PVP Season 1",
+			"SHAQ ALL STARS LEAGUE",
+			"BUF PVP Season 1",
+			"Hold and Hit 3 - Katharsis",
+			"Warsaw Boxing Cup",
+			"WBW 2025 Eliminacje 2 - Szczecin VOD",
+			"PRIME 12",
+			"ŚLUB W 30 DNI",
+			"XTB KSW 107",
+			"Produkt testowy live 4",
+			"XTB KSW 107",
+			"XTB KSW 107",
+			"PFC POLAND",
+			"PFC POLAND",
+			"XTB KSW 107",
+			"XTB KSW 108",
+			"XTB KSW 107",
+			"PFC POLAND",
+			"PRIME 13",
+			"PRIME 13",
+			"PRIME TIME",
+			"FAME 26",
+			"PRIME TIME",
+			"XTB KSW 109",
+			"ŚLUB W 30 DNI",
+			"Produkt testowy live 4",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"GROMDA 22",
+			"GROMDA 22",
+			"XTB KSW 110",
+			"King's Arena",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"RXF 50",
+			"",
+			"RXF TEST",
+			"GROMDA 22 - VOD",
+			"CLASH 13",
+			"GROMDA 22 - VOD",
+			"XTB KSW 111",
+			"WBW 2025 Eliminacje 5 - Warszawa",
+			"King's Arena",
+			"PRIME 14",
+			"CLASH 13",
+			"WBW 2025 Eliminacje 6 - Poznań"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "XTB KSW 110",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"ShX7DCSu4BHWNf_Q",
+			"Pn85uzd8xV-Vw5bq",
+			"Q9krlMvZOx_88tiL",
+			"NsxBaLcHZdrgXRJu",
+			"f04ofowq02CWtBrd",
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartosz-plaza@wp.pl": {
+		"id": "7bc46c49-3bc2-92c4-1a09-edac5501c361",
+		"email": "bartosz-plaza@wp.pl",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"213.76.110.162",
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartosz290300@wp.pl": {
+		"id": "888f2fc9-1e09-81ea-ca56-79e49be21e3a",
+		"email": "bartosz290300@wp.pl",
+		"firstname": "Bartosz",
+		"lastname": "Płaza",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartosz290300@gmail.com": {
+		"id": "6ba07cf2-a066-c3c0-7ac1-61627f60ece3",
+		"email": "bartosz290300@gmail.com",
+		"firstname": "Dasd",
+		"lastname": "Asdsa",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 262,
+				"sendEmail": true,
+				"created": 1756739354628,
+				"ip": false,
+				"customMessage": "Your account bartosz290300@gmail.com  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			},
+			{
+				"action": "unban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"sendEmail": true,
+				"created": 1756740137670,
+				"ip": false
+			}
+		],
+		"licenses": [
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"FAME 27",
+			"GROMDA 22",
+			"FAME 27",
+			"GROMDA 22",
+			"GROMDA 22",
+			"GROMDA 22",
+			"XTB KSW 111",
+			"WBW 2025 Eliminacje 7 - Katowice",
+			"ARES 35",
+			"XTB KSW 111"
+		],
+		"transactions": [
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "FAME 27",
+				"channel": "HotPayDB"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			},
+			{
+				"product": "XTB KSW 111",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8",
+			"Q9krlMvZOx_88tiL"
+		],
+		"IpMonitor": [
+			"95.160.119.55",
+			"31.0.71.17"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"b22202228@gmail.com": {
+		"id": "0269f098-7e23-075d-b716-bf216678a40f",
+		"email": "b22202228@gmail.com",
+		"firstname": "Sadsad",
+		"lastname": "Asdsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [
+			"GROMDA 22"
+		],
+		"transactions": [
+			{
+				"product": "GROMDA 22",
+				"channel": "AdyenCheckout"
+			}
+		],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartoszbasi2c@proton.me": {
+		"id": "7f696a4e-1345-2721-8c90-f2f6f47836fd",
+		"email": "bartoszbasi2c@proton.me",
+		"firstname": "Sadsdasadsadsadsadsadsadsadsadsadsadsasadasdsadsdasadsadsadsadsadsadsadsadsadsadsasadasd",
+		"lastname": "Sadsdasadsadsadsadsadsadsadsadsadsadsasadasdsadsdasadsadsadsadsadsadsadsadsadsadsasadasd",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartoszbasic1@proton.me": {
+		"id": "87207bfa-6d48-ff33-6b10-54d45fd6ed6b",
+		"email": "bartoszbasic1@proton.me",
+		"firstname": "Sadsdasadsadsadsadsadsadsadsadsadsadsasadasd",
+		"lastname": "Asdsadsadasdas",
+		"country": "PL",
+		"banNotes": [
+			{
+				"action": "ban",
+				"by": "bartosz.plaza@streamonline.tv",
+				"invalidateProduct": 291,
+				"sendEmail": true,
+				"noteBody": "dupa",
+				"created": 1758803826263,
+				"ip": false,
+				"customMessage": "Your account bartoszbasic1@proton.me  has been blocked due to activities that violate the regulations of the PlayLive Service.<br/>If PlayLive is exposed to property or financial loss, the case will be referred to law enforcement authorities!"
+			}
+		],
+		"licenses": [
+			"CLASH OF THE STARS 7"
+		],
+		"transactions": [],
+		"HashMonitor": [
+			"9Okbunfq3x3aVqp8"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bartosz.plaza12121@streamonline.tv": {
+		"id": "92fe8d41-a0a6-c93a-084a-6bcbf6bb6a35",
+		"email": "bartosz.plaza12121@streamonline.tv",
+		"firstname": "Sadsa",
+		"lastname": "Sadsa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	},
+	"bivipi7972@noomlocs.com": {
+		"id": "f1b702db-e4a0-3f78-2bb1-d7a4f902a652",
+		"email": "bivipi7972@noomlocs.com",
+		"firstname": "Aa",
+		"lastname": "Aa",
+		"country": "PL",
+		"banNotes": [],
+		"licenses": [],
+		"transactions": [],
+		"HashMonitor": [
+			"mEXZvMDG6AzVA4Ed"
+		],
+		"IpMonitor": [
+			"95.160.119.55"
+		],
+		"realatedAccounts": {
+			"hubr2000@gmail.com": [
+				"IpMonitor"
+			]
+		}
+	}
+}

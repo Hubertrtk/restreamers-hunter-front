@@ -1,0 +1,230 @@
+{
+	"firstname": "Hubert",
+	"lastname": "Rutkowski",
+	"mobile": "",
+	"email": "hubr2000@gmail.com",
+	"pass": "3f63d84506739b68591ac5b4d7a2c193a9e007008d2e19a6535341932266d13e",
+	"passChanged": 1732531847143,
+	"sid": "h+ND6yx",
+	"sidPlain": 2334533856433,
+	"aff": "0bd79b875194c40887038b4778551fd8",
+	"partitionKey": "hub",
+	"country": "PL",
+	"registrationIp": "46.170.213.59",
+	"company": false,
+	"activationHash": "a788bf5f60be4bbe407011cd3cfccb82",
+	"activated": true,
+	"banned": false,
+	"banNotes": false,
+	"reseller": false,
+	"transactions": [
+		{
+			"live": false,
+			"type": "income",
+			"provider": "Adyen",
+			"channel": "AdyenCheckout",
+			"clientId": "famemma",
+			"id": "J7XCGGP89VPHFJP9",
+			"txId": "J7XCGGP89VPHFJP9",
+			"orderId": "order.262.basic.5bb09b51-9c1a-32e1-4f87-9700e74d71d7.aHVi.7887982",
+			"user_id": "5bb09b51-9c1a-32e1-4f87-9700e74d71d7",
+			"region": "PL",
+			"lang": "pl",
+			"currency": "PLN",
+			"amount": 52.49,
+			"status": "success",
+			"product": {
+				"id": "262",
+				"clientId": "famemma",
+				"variantId": "basic",
+				"title": "FAME 27"
+			},
+			"timeEventCompleted": 1756221785000,
+			"timeCreated": 1756221684203,
+			"timeCompleted": 1756221785500,
+			"reseller": "streamonline",
+			"cacheKey": "order.262.basic.5bb09b51-9c1a-32e1-4f87-9700e74d71d7.aHVi.7887982",
+			"buyIp": "95.160.119.55",
+			"sessionIp": "95.160.119.55",
+			"discountCode": false,
+			"upgrade": false,
+			"baseAmount": 49.99,
+			"price": "52.49PLN",
+			"data": {
+				"reason": "null",
+				"eventDate": "2025-08-26T17:23:05+02:00",
+				"paymentMethod": "blik",
+				"merchantAccount": "FAMEMMA"
+			}
+		}
+	],
+	"licenses": [
+		{
+			"product": {
+				"id": "186",
+				"variantId": "premium",
+				"title": "PRIME 9"
+			},
+			"transaction": {
+				"id": "test",
+				"productId": "186",
+				"variantId": "premium",
+				"channel": "null"
+			},
+			"validFrom": 1722612671818,
+			"validTo": 1722981599000,
+			"created": 1722612671818,
+			"id": "premium@186#1722612671818",
+			"discountCode": false,
+			"accessTill": {
+				"live": 1722981599000
+			}
+		},
+		{
+			"product": {
+				"id": "191",
+				"variantId": "basic",
+				"title": "Produkt testowy live 4"
+			},
+			"transaction": {
+				"id": "test",
+				"productId": "191",
+				"variantId": "basic",
+				"channel": "null"
+			},
+			"validFrom": 1727096183685,
+			"validTo": 1728079200000,
+			"created": 1727096183685,
+			"id": "basic@191#1727096183685",
+			"discountCode": false,
+			"accessTill": {
+				"live": 1728079200000
+			}
+		},
+		{
+			"product": {
+				"id": "151",
+				"variantId": "premium",
+				"title": "WBW 2024 Eliminacje 5 - Wrocław"
+			},
+			"transaction": {
+				"id": "test",
+				"productId": "151",
+				"variantId": "premium",
+				"channel": "null"
+			},
+			"validFrom": 1727096489965,
+			"validTo": 1728306089965,
+			"created": 1727096489965,
+			"id": "premium@151#1727096489965",
+			"discountCode": false,
+			"accessTill": {
+				"live": 1728306089965
+			}
+		},
+		{
+			"product": {
+				"id": "191",
+				"variantId": "basic",
+				"title": "Produkt testowy live 4"
+			},
+			"transaction": {
+				"id": "test",
+				"productId": "191",
+				"variantId": "basic",
+				"channel": "null"
+			},
+			"validFrom": 1732531953879,
+			"validTo": 1733136753879,
+			"created": 1732531953879,
+			"id": "basic@191#1732531953879",
+			"discountCode": false,
+			"accessTill": {
+				"live": 1733136753879
+			}
+		},
+		{
+			"product": {
+				"id": "262",
+				"variantId": "basic",
+				"title": "FAME 27"
+			},
+			"transaction": {
+				"id": "J7XCGGP89VPHFJP9",
+				"productId": "262",
+				"variantId": "basic",
+				"channel": "AdyenCheckout"
+			},
+			"validFrom": 1756221785507,
+			"validTo": 1757368799000,
+			"created": 1756221785507,
+			"id": "basic@262#1756221785507",
+			"discountCode": false,
+			"accessTill": {
+				"live": 1757368799000
+			}
+		}
+	],
+	"approvals": {
+		"news": false,
+		"marketing": false
+	},
+	"registrationIpAnon": 0,
+	"isDisposableEmail": 0,
+	"extAuth": {
+		"ggl": {
+			"id": "116895277516323233736",
+			"email": "hubr2000@gmail.com",
+			"verified_email": true,
+			"name": "Hubert Rutkowski",
+			"given_name": "Hubert",
+			"family_name": "Rutkowski",
+			"picture": "https://lh3.googleusercontent.com/a/ACg8ocK_ZZSUnWCEPHxyfd3s1fz8ecFKlGWrJLKM6mFPMoyr_0I9zw=s96-c",
+			"auth_time": 1722612538319
+		}
+	},
+	"_created": 1722612538396,
+	"_modified": 1756221785514,
+	"id": "5bb09b51-9c1a-32e1-4f87-9700e74d71d7",
+	"_rid": "7LVQAJyMeM5UBQEAAAAADg==",
+	"_self": "dbs/7LVQAA==/colls/7LVQAJyMeM4=/docs/7LVQAJyMeM5UBQEAAAAADg==/",
+	"_etag": "\"1001e6dd-0000-0c00-0000-68add1590000\"",
+	"_attachments": "attachments/",
+	"customApprovals": {
+		"statuteAgreement": {
+			"id": "statuteAgreement",
+			"updateTime": 1756221664859,
+			"value": true,
+			"ipAddress": "95.160.119.55",
+			"checkedTime": 1756221664859
+		}
+	},
+	"_thash": {
+		"UI8ByXehyDBehyOr": true,
+		"1RQaQrKxDCJ3l443": true
+	},
+	"_thashes": [
+		{
+			"id": "UI8ByXehyDBehyOr",
+			"ts": 1742313843728,
+			"tr": "extauth",
+			"ip": "95.160.119.55",
+			"fp": false,
+			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+			"s_ua": "\"Chromium\";v=\"134\", \"Not:A-Brand\";v=\"24\", \"Google Chrome\";v=\"134\"",
+			"s_pt": "\"Windows\"",
+			"s_mb": "?0"
+		},
+		{
+			"id": "1RQaQrKxDCJ3l443",
+			"ts": 1756221684191,
+			"tr": "buy",
+			"ip": "95.160.119.55",
+			"fp": false,
+			"dt": "wb",
+			"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0",
+			"_in": true
+		}
+	],
+	"_ts": 1756221785
+}
