@@ -15,13 +15,15 @@
     @click.stop
   >
     <button @click="copyEmail" class="">Zaznacz</button>
-    <button @click="sendEmail" class="">Dodaj do mesh</button>
-    <button @click="sendEmail" class="">Info</button>
-    <button @click="sendEmail" class="">Roots</button>
+    <button @click="addToMesh" class="">Dodaj do mesh</button>
+    <button @click="searchByEmail" class="">Info</button>
+    <button @click="getRelatedUsers" class="">Roots</button>
   </div>
 </template>
 
 <script setup>
+import { ACTIONS } from "@/utils/constants";
+import { handleAction } from "@/utils/handleAction";
 import {
   ref,
   onMounted,
@@ -29,6 +31,9 @@ import {
   computed,
   onBeforeUnmount,
 } from "vue";
+import { useGlobalStore } from "@/stores/global";
+
+const globalStore = useGlobalStore();
 
 const showMenu = ref(false);
 const menuX = ref(0);
@@ -57,12 +62,27 @@ const closeMenu = () => {
 
 // 📍 Akcje w menu
 const copyEmail = () => {
-  navigator.clipboard.writeText(emailText.value);
+  globalStore.addValueToSearchInput(`${emailText.value}\n`);
   closeMenu();
 };
 
 const sendEmail = () => {
   window.location.href = `mailto:${emailText.value}`;
+  closeMenu();
+};
+const addToMesh = () => {
+  console.log("globalStore.getMeshId");
+  console.log(globalStore.getMeshId);
+  closeMenu();
+};
+
+const searchByEmail = () => {
+  handleAction(ACTIONS.search_by_email, emailText.value);
+  closeMenu();
+};
+
+const getRelatedUsers = () => {
+  handleAction(ACTIONS.get_related_users_by_email, emailText.value);
   closeMenu();
 };
 

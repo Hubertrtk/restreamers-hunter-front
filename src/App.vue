@@ -74,6 +74,21 @@ const startDrag = (event, id) => {
   window.addEventListener("mousemove", onMouseMove);
   window.addEventListener("mouseup", onMouseUp);
 };
+const isTextAreVisible = () => {
+  return globalStore.getShowSearchInput;
+};
+const changeTextAreaIsVisible = () => {
+  return globalStore.changeShowSearchInput(!isTextAreVisible());
+};
+window.addEventListener("keydown", function (event) {
+  switch (event.key) {
+    case "Escape":
+      changeTextAreaIsVisible();
+      break;
+    default:
+      return;
+  }
+});
 </script>
 
 <style scoped>

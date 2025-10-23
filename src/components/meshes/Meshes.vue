@@ -36,14 +36,10 @@ const selected = ref("");
 const { data: meshes, error, isLoading, getData } = useFetchHook(getMeshes);
 
 onMounted(async () => {
-  await getData("HashMonitor");
-  console.log("meshes");
-  console.log(meshes.value);
+  //   await getData("HashMonitor");
 });
 
 const fetchData = async () => {
-  console.log("selected.value");
-  console.log(selected.value);
   if (!selected.value) return;
   getData(selected.value);
   try {

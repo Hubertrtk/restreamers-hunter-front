@@ -1,29 +1,27 @@
 import { ref } from "vue";
+import { computed } from "vue";
+import { useGlobalStore } from "@/stores/global";
+import { ACTIONS, MODALS } from "./constants";
 
-export function useFetchHook(apiFunction) {
-  const data = ref(null);
-  const error = ref(null);
-  const isLoading = ref(false);
+export function handleAction(action, params) {
+  const globalStore = useGlobalStore();
 
-  const getData = async (params) => {
-    isLoading.value = true;
-    error.value = null;
-
-    try {
-      const response = await apiFunction(params);
-      data.value = response.data;
-    } catch (err) {
-      error.value =
-        err.response?.data?.message || err.message || "Wystąpił błąd";
-    } finally {
-      isLoading.value = false;
-    }
-  };
-
-  return {
-    data,
-    error,
-    isLoading,
-    getData,
-  };
+  let modal;
+  switch (action) {
+    case ACTIONS.search_by_email:
+      modal = MODALS.USER_INFO;
+      break;
+    case ACTIONS.search_by_wtmId:
+      modal = MODALS.SEARCH_BY_NAGRA;
+      break;
+    case ACTIONS.get_related_users_by_email:
+      modal = MODALS.USER_ROORS;
+      break;
+    case ACTIONS.get_mesh:
+      modal = MODALS.MESH;
+      break;
+    default:
+      return;
+  }
+  globalStore.addModal(modal, params);
 }

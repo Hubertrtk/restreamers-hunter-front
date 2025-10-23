@@ -5,6 +5,9 @@ import { v4 as uuidv4 } from "uuid";
 export const useGlobalStore = defineStore("global", {
   state: () => ({
     modals: {},
+    selectedMeshId: null,
+    searchInput: "",
+    showSearchInput: false,
   }),
   getters: {
     allModals: (state) => {
@@ -12,6 +15,15 @@ export const useGlobalStore = defineStore("global", {
         id,
         ...modal,
       }));
+    },
+    getMeshId: (state) => {
+      return state.selectedMeshId;
+    },
+    getSearchInput: (state) => {
+      return state.searchInput;
+    },
+    getShowSearchInput: (state) => {
+      return state.showSearchInput;
     },
   },
   actions: {
@@ -32,6 +44,15 @@ export const useGlobalStore = defineStore("global", {
       } else {
         console.warn(`Modal with id ${modalId} not found`);
       }
+    },
+    selectMeshId(meshId) {
+      this.selectedMeshId = meshId;
+    },
+    changeShowSearchInput(isVisible) {
+      this.showSearchInput = isVisible;
+    },
+    addValueToSearchInput(value) {
+      this.searchInput += value;
     },
   },
 });
