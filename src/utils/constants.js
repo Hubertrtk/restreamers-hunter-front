@@ -3,6 +3,7 @@ export const ACTIONS = {
   search_by_wtmId: "search by wtmId",
   get_related_users_by_email: "get related users by email",
   get_mesh: "get mesh",
+  add_emails_to_mesh: "add emails to mesh",
 };
 
 export const MODALS = {

@@ -35,3 +35,16 @@ export const getMeshData = (meshId) => {
     meshId,
   });
 };
+
+export const addMeshSuspectsByEmails = (meshId, emails) => {
+  return axiosInstance.post(`/restreamershunter/addMeshSuspectsByEmails`, {
+    meshId,
+    emails,
+  });
+};
+
+export const runMonitor = (meshId) => {
+  return axiosInstance.post(`/restreamershunter/runMonitorMesh`, {
+    meshId,
+  });
+};

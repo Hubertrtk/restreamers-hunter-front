@@ -17,6 +17,7 @@
     <ul v-if="Object.keys(users).length">
       <li v-for="(value, email) in users" :key="email">
         <Email>{{ email }}</Email>
+        <!-- <p>{{ value[0] }}</p> -->
       </li>
     </ul>
     <p v-else>Brak danych</p>

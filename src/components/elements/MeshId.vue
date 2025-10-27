@@ -1,11 +1,12 @@
 <template>
-  <span
+  <p
     @contextmenu.prevent="openMenu($event)"
     ref="spanRef"
     class="cursor-pointer"
+    :style="{ color: isSelected ? 'aqua' : 'inherit' }"
   >
     <slot />
-  </span>
+  </p>
 
   <!-- Toolbar -->
   <div
@@ -15,8 +16,9 @@
     @click.stop
   >
     <button @click="copyEmail" class="">Otwórz</button>
-    <button @click="sendEmail" class="">Run</button>
+    <button @click="handleRunMonitor" class="">Run</button>
     <button @click="selectMesh" class="">Zaznacz</button>
+    <button @click="getMesh" class="">get</button>
     <button v-if="showAddEmails()" @click="selectMesh" class="">
       Dodaj Wybrane Adresy Email
     </button>
@@ -33,6 +35,9 @@ import {
 } from "vue";
 import { useGlobalStore } from "@/stores/global";
 import { deleteWhiteSigns } from "@/utils/helpers";
+import { runMonitor } from "@/api/serviceApi";
+import { handleAction } from "@/utils/handleAction";
+import { ACTIONS } from "@/utils/constants";
 
 const globalStore = useGlobalStore();
 const showMenu = ref(false);
@@ -40,13 +45,28 @@ const menuX = ref(0);
 const menuY = ref(0);
 const spanRef = ref(null);
 
+const isSelected = computed(() => {
+  return globalStore.getMeshId == emailText.value;
+});
+
 const instance = getCurrentInstance();
 const emailText = computed(() =>
   instance.slots.default?.()[0]?.children?.trim()
 );
 
+const handleRunMonitor = () => {
+  const meshId = emailText.value;
+  runMonitor(meshId).then((response) => {
+    console.log("Monitor started:", response.data);
+  });
+};
+
+const getMesh = () => {
+  const meshId = emailText.value;
+  handleAction(ACTIONS.get_mesh, meshId);
+};
+
 const showAddEmails = () => {
-  console.log(globalStore.getSearchInput);
   if (globalStore.getSearchInput.length == 0) {
     return false;
   }
@@ -60,14 +80,6 @@ const showAddEmails = () => {
     })
   )
     return true;
-  //   switch (true) {
-  //     case globalStore.getSearchInput.length > 0:
-  //       return false;
-  //     case globalStore.getSearchInput.length > 0:
-  //       return false;
-  //     default:
-  //       return false;
-  //   }
 };
 
 // 📍 Funkcja otwierająca menu kontekstowe
@@ -97,7 +109,6 @@ const sendEmail = () => {
 };
 
 const selectMesh = () => {
-  console.log(emailText.value);
   globalStore.selectMeshId(emailText.value);
   closeMenu();
 };

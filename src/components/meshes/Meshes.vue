@@ -17,6 +17,7 @@
     <ul v-if="meshes">
       <li v-for="(value, email) in meshes" :key="email">
         <MeshId> {{ email }}</MeshId>
+        <p>- {{ value }}</p>
       </li>
     </ul>
     <p v-else>Brak danych</p>
@@ -27,17 +28,12 @@
 import { getMeshes, getSuspectsLobby } from "@/api/serviceApi";
 import { MESHES_TYPES } from "@/utils/constants";
 import { useFetchHook } from "@/utils/useFetchHook";
-import { onMounted, ref } from "vue";
+import { ref } from "vue";
 import MeshId from "../elements/MeshId.vue";
 
-// wybrana opcja z selecta
 const selected = ref("");
 
 const { data: meshes, error, isLoading, getData } = useFetchHook(getMeshes);
-
-onMounted(async () => {
-  //   await getData("HashMonitor");
-});
 
 const fetchData = async () => {
   if (!selected.value) return;
@@ -62,6 +58,7 @@ const fetchData = async () => {
   }
   li {
     padding: 4px 0;
+    display: flex;
   }
 }
 </style>

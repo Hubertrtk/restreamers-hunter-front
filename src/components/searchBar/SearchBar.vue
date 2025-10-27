@@ -2,11 +2,17 @@
   <nav>
     <!-- <input v-model="productId" type="number" placeholder="Wpisz productId" /> -->
     <textarea
+      ref="textareaRef"
       class="textarea-search"
       v-model="inputValue"
       type="text"
       placeholder="Wpisz coś..."
       v-if="isTextAreVisible()"
+    />
+    <div
+      @click="changeTextAreaIsVisible"
+      v-if="isTextAreVisible()"
+      class="textarea-search-background"
     />
     <button @click="changeTextAreaIsVisible">TYPE</button>
     <button
@@ -23,14 +29,15 @@
 <script setup>
 import { ACTIONS, MODALS } from "@/utils/constants";
 import { useGlobalStore } from "@/stores/global";
-import { computed, ref } from "vue";
+import { computed, ref, watch, nextTick } from "vue";
 import { handleAction } from "@/utils/handleAction";
 
 const globalStore = useGlobalStore();
+const textareaRef = ref(null);
 
 const inputValue = computed({
   get: () => globalStore.getSearchInput,
-  set: (val) => (globalStore.searchInput = val), // lub wywołanie akcji jeśli wolisz
+  set: (val) => (globalStore.searchInput = val),
 });
 const productId = ref();
 
@@ -45,6 +52,18 @@ const handleButton = (action) => {
 const isTextAreVisible = () => {
   return globalStore.getShowSearchInput;
 };
+
+watch(
+  () => globalStore.getShowSearchInput,
+  async (newValue) => {
+    if (newValue) {
+      // Poczekaj aż textarea pojawi się w DOM
+      await nextTick();
+      // I ustaw focus
+      textareaRef.value?.focus();
+    }
+  }
+);
 
 const validate = (action) => {
   const value = inputValue.value;
@@ -76,7 +95,7 @@ const validate = (action) => {
     case ACTIONS.get_mesh:
       return false;
     default:
-      return true;
+      return false;
   }
 };
 </script>
@@ -104,6 +123,16 @@ nav {
   button {
     height: 100%;
     width: 70px;
+  }
+  .textarea-search-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: black;
+    opacity: 0.5;
+    z-index: 9998;
   }
 }
 </style>

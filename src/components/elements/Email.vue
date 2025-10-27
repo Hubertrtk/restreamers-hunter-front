@@ -3,6 +3,7 @@
     @contextmenu.prevent="openMenu($event)"
     ref="spanRef"
     class="cursor-pointer"
+    :style="{ color: isSelected ? 'aqua' : 'inherit' }"
   >
     <slot />
   </span>
@@ -53,6 +54,10 @@ const openMenu = (event) => {
 
   document.addEventListener("click", closeMenu);
 };
+
+const isSelected = computed(() => {
+  return globalStore.getSearchInput.includes(emailText.value);
+});
 
 // 📍 Zamknięcie menu po kliknięciu poza nim
 const closeMenu = () => {

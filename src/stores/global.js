@@ -8,6 +8,7 @@ export const useGlobalStore = defineStore("global", {
     selectedMeshId: null,
     searchInput: "",
     showSearchInput: false,
+    productId: null,
   }),
   getters: {
     allModals: (state) => {
