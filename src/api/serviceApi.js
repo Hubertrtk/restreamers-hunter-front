@@ -48,3 +48,16 @@ export const runMonitor = (meshId) => {
     meshId,
   });
 };
+
+export const markAsFoundByNagra = (emails) => {
+  return axiosInstance.post(`/restreamershunter/markAsFoundByNagra`, {
+    emails,
+  });
+};
+
+export const haveLicenses = (emails, productId) => {
+  return axiosInstance.post(`/restreamershunter/haveLicenses`, {
+    emails,
+    productId,
+  });
+};

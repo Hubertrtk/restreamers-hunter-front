@@ -2,7 +2,7 @@ import { ref } from "vue";
 import { computed } from "vue";
 import { useGlobalStore } from "@/stores/global";
 import { ACTIONS, MODALS } from "./constants";
-import { addMeshSuspectsByEmails } from "@/api/serviceApi";
+import { addMeshSuspectsByEmails, haveLicenses } from "@/api/serviceApi";
 import { deleteWhiteSigns } from "./helpers";
 
 export function handleAction(action, params) {
@@ -24,6 +24,16 @@ export function handleAction(action, params) {
       meshId = globalStore.getMeshId || params;
       modal = MODALS.MESH;
       globalStore.addModal(modal, meshId);
+      return;
+    case ACTIONS.getLicenses:
+      console.log(" licenses for emails: ");
+      haveLicenses(params, globalStore.productId).then((res) => {
+        for (const [email, isLicense] of Object.entries(res.data)) {
+          if (isLicense) {
+            globalStore.addHaveLicenseEmail(email);
+          }
+        }
+      });
       return;
     case ACTIONS.add_emails_to_mesh:
       meshId = globalStore.getMeshId;

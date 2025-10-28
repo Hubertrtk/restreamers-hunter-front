@@ -8,7 +8,8 @@ export const useGlobalStore = defineStore("global", {
     selectedMeshId: null,
     searchInput: "",
     showSearchInput: false,
-    productId: null,
+    productId: 262,
+    haveLicenses: [],
   }),
   getters: {
     allModals: (state) => {
@@ -25,6 +26,9 @@ export const useGlobalStore = defineStore("global", {
     },
     getShowSearchInput: (state) => {
       return state.showSearchInput;
+    },
+    getEmailsWithLicense: (state) => {
+      return state.haveLicenses;
     },
   },
   actions: {
@@ -54,6 +58,11 @@ export const useGlobalStore = defineStore("global", {
     },
     addValueToSearchInput(value) {
       this.searchInput += value;
+    },
+    addHaveLicenseEmail(email) {
+      if (!this.haveLicenses.includes(email)) {
+        this.haveLicenses.push(email);
+      }
     },
   },
 });

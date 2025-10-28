@@ -4,6 +4,8 @@ export const ACTIONS = {
   get_related_users_by_email: "get related users by email",
   get_mesh: "get mesh",
   add_emails_to_mesh: "add emails to mesh",
+  mark_email_as_found_by_nagra: "Zlapany Nagra",
+  getLicenses: "getLicenses",
 };
 
 export const MODALS = {

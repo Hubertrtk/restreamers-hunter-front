@@ -17,7 +17,6 @@
     <ul v-if="Object.keys(users).length">
       <li v-for="(value, email) in users" :key="email">
         <Email>{{ email }}</Email>
-        <!-- <p>{{ value[0] }}</p> -->
       </li>
     </ul>
     <p v-else>Brak danych</p>
@@ -28,6 +27,8 @@
 import { getSuspectsLobby } from "@/api/serviceApi";
 import { ref } from "vue";
 import Email from "../elements/Email.vue";
+import { handleAction } from "@/utils/handleAction";
+import { ACTIONS } from "@/utils/constants";
 
 // wybrana opcja z selecta
 const selected = ref("");
@@ -46,6 +47,10 @@ const fetchData = async () => {
   try {
     const r = await getSuspectsLobby(selected.value);
     users.value = r.data;
+    const emails = Object.keys(r.data);
+    console.log("emails");
+    console.log(emails);
+    handleAction(ACTIONS.getLicenses, emails);
   } catch (err) {
     console.error(err);
     users.value = {};

@@ -14,6 +14,7 @@
     <div v-if="data">
       <ul>
         <li v-for="(item, index) in data[selectedWtm]" :key="index">
+          <Email>{{ item.email }}</Email>
           <UserInfo :user="item" />
         </li>
       </ul>
@@ -26,6 +27,7 @@ import UserInfo from "../userInfo/UserInfo.vue";
 import { useFetchHook } from "@/utils/useFetchHook";
 import { getUsersByWtmIds } from "@/api/serviceApi";
 import Loading from "../loading/Loading.vue";
+import Email from "../elements/Email.vue";
 
 const selectedWtm = ref(false);
 

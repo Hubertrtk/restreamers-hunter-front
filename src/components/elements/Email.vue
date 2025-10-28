@@ -3,7 +3,10 @@
     @contextmenu.prevent="openMenu($event)"
     ref="spanRef"
     class="cursor-pointer"
-    :style="{ color: isSelected ? 'aqua' : 'inherit' }"
+    :style="{
+      color: isSelected ? 'aqua' : 'inherit',
+      backgroundColor: hasLicense ? 'yellow' : 'inherit',
+    }"
   >
     <slot />
   </span>
@@ -19,6 +22,7 @@
     <button @click="addToMesh" class="">Dodaj do mesh</button>
     <button @click="searchByEmail" class="">Info</button>
     <button @click="getRelatedUsers" class="">Roots</button>
+    <button @click="foundByNagra" class="">Zlapany Nagra</button>
   </div>
 </template>
 
@@ -33,6 +37,7 @@ import {
   onBeforeUnmount,
 } from "vue";
 import { useGlobalStore } from "@/stores/global";
+import { markAsFoundByNagra } from "@/api/serviceApi";
 
 const globalStore = useGlobalStore();
 
@@ -45,6 +50,12 @@ const instance = getCurrentInstance();
 const emailText = computed(() =>
   instance.slots.default?.()[0]?.children?.trim()
 );
+const hasLicense = computed(() => {
+  console.log(globalStore.getEmailsWithLicense.includes(emailText.value));
+  console.log(emailText.value);
+  console.log(globalStore.getEmailsWithLicense);
+  return globalStore.getEmailsWithLicense.includes(emailText.value);
+});
 
 // 📍 Funkcja otwierająca menu kontekstowe
 const openMenu = (event) => {
@@ -59,6 +70,11 @@ const isSelected = computed(() => {
   return globalStore.getSearchInput.includes(emailText.value);
 });
 
+const foundByNagra = () => {
+  markAsFoundByNagra([emailText.value]);
+  closeMenu();
+};
+
 // 📍 Zamknięcie menu po kliknięciu poza nim
 const closeMenu = () => {
   showMenu.value = false;
@@ -71,10 +87,6 @@ const copyEmail = () => {
   closeMenu();
 };
 
-const sendEmail = () => {
-  window.location.href = `mailto:${emailText.value}`;
-  closeMenu();
-};
 const addToMesh = () => {
   console.log("globalStore.getMeshId");
   console.log(globalStore.getMeshId);
