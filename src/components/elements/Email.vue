@@ -4,13 +4,11 @@
     ref="spanRef"
     class="cursor-pointer"
     :style="{
-      color: isSelected ? 'aqua' : 'inherit',
       backgroundColor: hasLicense ? 'yellow' : 'inherit',
     }"
   >
     <slot />
   </span>
-
   <!-- Toolbar -->
   <div
     v-if="showMenu"
@@ -19,10 +17,10 @@
     @click.stop
   >
     <button @click="copyEmail" class="">Zaznacz</button>
-    <button @click="addToMesh" class="">Dodaj do mesh</button>
+    <!-- <button @click="addToMesh" class="">Dodaj do mesh</button>
     <button @click="searchByEmail" class="">Info</button>
     <button @click="getRelatedUsers" class="">Roots</button>
-    <button @click="foundByNagra" class="">Zlapany Nagra</button>
+    <button @click="foundByNagra" class="">Zlapany Nagra</button> -->
   </div>
 </template>
 
@@ -35,11 +33,18 @@ import {
   getCurrentInstance,
   computed,
   onBeforeUnmount,
+  onBeforeMount,
 } from "vue";
 import { useGlobalStore } from "@/stores/global";
 import { markAsFoundByNagra } from "@/api/serviceApi";
 
 const globalStore = useGlobalStore();
+
+onBeforeMount(() => {
+  console.log("Email component mounted");
+  console.log(emailText.value);
+  globalStore.licenseCheck(emailText.value);
+});
 
 const showMenu = ref(false);
 const menuX = ref(0);
@@ -51,10 +56,16 @@ const emailText = computed(() =>
   instance.slots.default?.()[0]?.children?.trim()
 );
 const hasLicense = computed(() => {
-  console.log(globalStore.getEmailsWithLicense.includes(emailText.value));
-  console.log(emailText.value);
-  console.log(globalStore.getEmailsWithLicense);
-  return globalStore.getEmailsWithLicense.includes(emailText.value);
+  if (!globalStore.getProductId) return false;
+  if (
+    globalStore.getLicenseEmails[emailText.value] &&
+    globalStore.getLicenseEmails[emailText.value].includes(
+      globalStore.getProductId
+    )
+  ) {
+    return true;
+  }
+  return false;
 });
 
 // 📍 Funkcja otwierająca menu kontekstowe

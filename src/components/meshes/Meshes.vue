@@ -6,7 +6,7 @@
         <option disabled value="">-- wybierz typ --</option>
         <!-- Dynamiczne mapowanie obiektu endpoints -->
         <option
-          v-for="(endpoint, key) in MESHES_TYPES"
+          v-for="(endpoint, key) in MONITORS"
           :key="key"
           :value="endpoint"
         >
@@ -26,7 +26,7 @@
 
 <script setup>
 import { getMeshes, getSuspectsLobby } from "@/api/serviceApi";
-import { MESHES_TYPES } from "@/utils/constants";
+import { MONITORS } from "@/utils/constants";
 import { useFetchHook } from "@/utils/useFetchHook";
 import { ref } from "vue";
 import MeshId from "../elements/MeshId.vue";

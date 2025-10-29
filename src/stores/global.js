@@ -7,12 +7,16 @@ export const useGlobalStore = defineStore("global", {
     modals: {},
     productId: null,
     licenseEmails: {
-      "hubr2000@gmail.com": ["234", "253"],
+      "hubr2000@gmail.com": null,
+      //   damian: null,
     },
   }),
   getters: {
     getLicenseEmails: (state) => {
       return state.licenseEmails;
+    },
+    getProductId: (state) => {
+      return state.productId;
     },
   },
   actions: {
@@ -38,9 +42,18 @@ export const useGlobalStore = defineStore("global", {
      * * @param {string{}} emails email - [productIds]
      */
     addLicenseEmails(emails) {
-      if (!this.haveLicenses.includes(email)) {
-        this.haveLicenses.push(email);
+      this.licenseEmails = {
+        ...this.licenseEmails,
+        ...emails,
+      };
+    },
+    licenseCheck(email) {
+      if (!this.licenseEmails[email]) {
+        this.addLicenseEmails({ [email]: null });
       }
+    },
+    setProductId(id) {
+      this.productId = id;
     },
   },
 });

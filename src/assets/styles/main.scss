@@ -1,11 +1,36 @@
+/* Ustaw box-sizing globalnie */
+* {
+  box-sizing: border-box;
+}
+
+/* HTML i BODY na pełną wysokość */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Arial", sans-serif;
+  background-color: #212121;
+}
+
+/* Główny wrapper aplikacji */
+#app {
+  width: 100%;
+  height: 100%; /* 100% = 100% wysokości body */
+}
+
+/* Kontener na całą wysokość widoku */
 .container {
   display: flex;
   flex-direction: row;
   justify-content: flex-start;
   align-items: flex-start;
   position: relative;
+  height: 100%; /* <- kluczowe */
+  border: 2px solid red;
 }
 
+/* Reszta layoutu */
 .suspects-lobby-wrapper {
   width: 100%;
   height: 100%;
@@ -13,11 +38,28 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+  ul {
+    li {
+      list-style: none;
+      margin: 20px 0;
+      span {
+        margin: 50px 0;
+        // color: white;
+      }
+    }
+  }
 }
 
 .meshes-list-container {
   width: 100%;
   height: 100%;
   border: 2px solid green;
+}
+
+.productId-label {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 1000;
 }

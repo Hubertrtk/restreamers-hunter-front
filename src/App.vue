@@ -1,8 +1,10 @@
 <template>
+  <label class="productId-label">
+    <input type="number" v-model="productIdInput" />
+    <button @click="setProductId">ok</button>
+  </label>
   <div class="container">
-    <SuspectsLobby :type="`HashMonitor`" />
-    <SuspectsLobby :type="`IpMonitor`" />
-    <SuspectsLobby :type="`UserMonitor`" />
+    <SuspectsLobby v-for="(value, key) in MONITORS" :key="key" :type="value" />
     <Meshes />
     <!-- <SearchBar />
     <Meshes />
@@ -35,8 +37,39 @@ import { useGlobalStore } from "@/stores/global";
 import Meshes from "./components/meshes/Meshes.vue";
 import SuspectsLobby from "./components/suspectslobby/SuspectsLobby.vue";
 import Mesh from "./components/mesh/Mesh.vue";
+import { MONITORS } from "./utils/constants";
+import { onMounted } from "vue";
+import { onUnmounted } from "vue";
+import { getLicenses } from "./api/serviceApi";
+import { ref } from "vue";
+
+const productIdInput = ref(null);
 
 const globalStore = useGlobalStore();
+
+let intervalId = null;
+
+onMounted(() => {
+  intervalId = setInterval(() => {
+    const unknowLicenseEmails = [];
+    for (const [email, productIds] of Object.entries(
+      globalStore.getLicenseEmails
+    )) {
+      if (!productIds) {
+        unknowLicenseEmails.push(email);
+      }
+    }
+    if (unknowLicenseEmails.length === 0) return;
+    getLicenses(unknowLicenseEmails).then((response) => {
+      globalStore.addLicenseEmails(response.data);
+    });
+  }, 5000);
+});
+
+onUnmounted(() => {
+  clearInterval(intervalId);
+});
+
 const modals = computed(() => globalStore.allModals);
 
 const modalComponents = {
@@ -48,6 +81,10 @@ const modalComponents = {
 
 const removeModal = (id) => {
   globalStore.removeModal(id);
+};
+
+const setProductId = () => {
+  globalStore.setProductId(productIdInput.value);
 };
 
 // pozycje modalów

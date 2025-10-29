@@ -1,6 +1,5 @@
 import axios from "axios";
 const getBaseURL = () => {
-  //   return 'https://waftool-plc-01-b6f8g8e2fffwfjfp.polandcentral-01.azurewebsites.net'
   return "http://localhost:80";
 };
 

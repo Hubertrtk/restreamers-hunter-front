@@ -61,3 +61,9 @@ export const haveLicenses = (emails, productId) => {
     productId,
   });
 };
+
+export const getLicenses = (emails) => {
+  return axiosInstance.post(`/restreamershunter/getLicenses`, {
+    emails,
+  });
+};

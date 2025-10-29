@@ -15,7 +15,8 @@ export const MODALS = {
   MESH: "MESH",
 };
 
-export const MESHES_TYPES = {
-  HashMonitor: "HashMonitor",
-  IpMonitor: "IpMonitor",
+export const MONITORS = {
+  HASH: "HashMonitor",
+  IP: "IpMonitor",
+  USER: "UserMonitor",
 };

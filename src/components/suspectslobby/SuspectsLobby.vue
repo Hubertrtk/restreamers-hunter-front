@@ -1,12 +1,13 @@
 <template>
   <div class="suspects-lobby-wrapper">
     <p>{{ props.type }}</p>
-    <!-- <ul v-if="Object.keys(users).length">
-      <li v-for="(value, email) in users" :key="email">
+    <Loading v-if="isLoading" />
+    <ul v-if="Object.keys(data || {}).length">
+      <li v-for="(value, email) in data" :key="email">
         <Email>{{ email }}</Email>
       </li>
     </ul>
-    <p v-else>Brak danych</p> -->
+    <p v-else>Brak danych</p>
   </div>
 </template>
 
@@ -16,6 +17,9 @@ import { ref } from "vue";
 import Email from "../elements/Email.vue";
 import { handleAction } from "@/utils/handleAction";
 import { ACTIONS } from "@/utils/constants";
+import { useFetchHook } from "@/utils/useFetchHook";
+import Loading from "../loading/Loading.vue";
+import { onMounted } from "vue";
 
 const props = defineProps({
   type: {
@@ -29,12 +33,22 @@ const selected = ref("");
 // dane z API
 const users = ref({});
 
-// przykładowe mapowanie typu -> endpoint
-const endpoints = {
-  HASH: "HashMonitor",
-  IP: "IpMonitor",
-  User: "UserMonitor",
-};
+const { data, error, isLoading, getData } = useFetchHook(getSuspectsLobby);
+
+onMounted(() => {
+  getData(props.type)
+    .then(() => {
+      // users.value = data.value;
+      // const emails = Object.keys(data.value);
+      // console.log("emails");
+      // console.log(emails);
+      // handleAction(ACTIONS.getLicenses, emails);
+      console.log(data.value);
+    })
+    .catch((err) => {
+      console.error(err);
+    });
+});
 
 const fetchData = async () => {
   if (!selected.value) return;
