@@ -5,30 +5,14 @@ import { v4 as uuidv4 } from "uuid";
 export const useGlobalStore = defineStore("global", {
   state: () => ({
     modals: {},
-    selectedMeshId: null,
-    searchInput: "",
-    showSearchInput: false,
-    productId: 262,
-    haveLicenses: [],
+    productId: null,
+    licenseEmails: {
+      "hubr2000@gmail.com": ["234", "253"],
+    },
   }),
   getters: {
-    allModals: (state) => {
-      return Object.entries(state.modals).map(([id, modal]) => ({
-        id,
-        ...modal,
-      }));
-    },
-    getMeshId: (state) => {
-      return state.selectedMeshId;
-    },
-    getSearchInput: (state) => {
-      return state.searchInput;
-    },
-    getShowSearchInput: (state) => {
-      return state.showSearchInput;
-    },
-    getEmailsWithLicense: (state) => {
-      return state.haveLicenses;
+    getLicenseEmails: (state) => {
+      return state.licenseEmails;
     },
   },
   actions: {
@@ -50,16 +34,10 @@ export const useGlobalStore = defineStore("global", {
         console.warn(`Modal with id ${modalId} not found`);
       }
     },
-    selectMeshId(meshId) {
-      this.selectedMeshId = meshId;
-    },
-    changeShowSearchInput(isVisible) {
-      this.showSearchInput = isVisible;
-    },
-    addValueToSearchInput(value) {
-      this.searchInput += value;
-    },
-    addHaveLicenseEmail(email) {
+    /**
+     * * @param {string{}} emails email - [productIds]
+     */
+    addLicenseEmails(emails) {
       if (!this.haveLicenses.includes(email)) {
         this.haveLicenses.push(email);
       }

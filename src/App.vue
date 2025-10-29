@@ -1,9 +1,13 @@
 <template>
   <div class="container">
-    <SearchBar />
+    <SuspectsLobby :type="`HashMonitor`" />
+    <SuspectsLobby :type="`IpMonitor`" />
+    <SuspectsLobby :type="`UserMonitor`" />
     <Meshes />
-    <SuspectsLobby />
-    <div
+    <!-- <SearchBar />
+    <Meshes />
+    <SuspectsLobby /> -->
+    <!-- <div
       v-for="modal in modals"
       :key="modal.id"
       class="modal-container"
@@ -17,7 +21,7 @@
         <button @click="removeModal(modal.id)">x</button>
       </div>
       <component :is="modalComponents[modal.modalType]" :params="modal.data" />
-    </div>
+    </div> -->
   </div>
 </template>
 
@@ -93,11 +97,6 @@ window.addEventListener("keydown", function (event) {
 
 <style scoped>
 .container {
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  padding-top: 50px;
-  position: relative;
 }
 .modal-container {
   display: flex;

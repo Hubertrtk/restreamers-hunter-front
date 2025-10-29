@@ -1,5 +1,5 @@
 <template>
-  <div class="meshes-container">
+  <div class="meshes-list-container">
     <p>Meshes</p>
     <div class="">
       <select v-model="selected" @change="fetchData" class="">

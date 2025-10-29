@@ -1,25 +1,12 @@
 <template>
-  <div class="suspectLobbyContainer">
-    <p>Suspect Lobby</p>
-    <div class="">
-      <select v-model="selected" @change="fetchData" class="">
-        <option disabled value="">-- wybierz typ --</option>
-        <!-- Dynamiczne mapowanie obiektu endpoints -->
-        <option
-          v-for="(endpoint, key) in endpoints"
-          :key="key"
-          :value="endpoint"
-        >
-          {{ key }}
-        </option>
-      </select>
-    </div>
-    <ul v-if="Object.keys(users).length">
+  <div class="suspects-lobby-wrapper">
+    <p>{{ props.type }}</p>
+    <!-- <ul v-if="Object.keys(users).length">
       <li v-for="(value, email) in users" :key="email">
         <Email>{{ email }}</Email>
       </li>
     </ul>
-    <p v-else>Brak danych</p>
+    <p v-else>Brak danych</p> -->
   </div>
 </template>
 
@@ -29,6 +16,13 @@ import { ref } from "vue";
 import Email from "../elements/Email.vue";
 import { handleAction } from "@/utils/handleAction";
 import { ACTIONS } from "@/utils/constants";
+
+const props = defineProps({
+  type: {
+    type: String,
+    required: true,
+  },
+});
 
 // wybrana opcja z selecta
 const selected = ref("");
@@ -57,19 +51,3 @@ const fetchData = async () => {
   }
 };
 </script>
-<style scoped>
-.suspectLobbyContainer {
-  position: absolute;
-  top: 50px;
-  left: 0;
-  width: 400px;
-  bottom: 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-}
-li {
-  padding: 4px 0;
-}
-</style>
