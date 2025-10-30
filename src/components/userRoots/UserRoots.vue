@@ -3,11 +3,13 @@
     Użytkownicy powiązani z
     <p>{{ props.params }}</p>
     <MoreInfo v-if="selectedMoreInfo" :info="users[selectedMoreInfo]" />
+    <Loading v-if="isLoading" />
     <div>
       <ul>
         <li v-for="(data, userEmail) in users" :key="userEmail">
           <button @click="() => handleButton(userEmail)">I</button>
-          {{ userEmail }} {{ data.realatedAccounts[props.params] }}
+          <Email>{{ userEmail }}</Email>
+          {{ data.realatedAccounts[props.params] }}
         </li>
       </ul>
     </div>
@@ -19,6 +21,8 @@ import { onMounted, ref } from "vue";
 import MoreInfo from "./MoreInfo.vue";
 import { useFetchHook } from "@/utils/useFetchHook";
 import { findUsersRoots } from "@/api/serviceApi";
+import Email from "../elements/Email.vue";
+import Loading from "../loading/Loading.vue";
 
 const selectedMoreInfo = ref();
 
@@ -47,18 +51,3 @@ const formatDate = (timestamp) => {
   return d.toLocaleString("pl-PL");
 };
 </script>
-<style scoped>
-.user-roots-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  max-height: 500px;
-  overflow-y: scroll;
-  ul {
-    li {
-      margin: 15px 0;
-    }
-  }
-}
-</style>

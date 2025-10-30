@@ -4,11 +4,11 @@ import { v4 as uuidv4 } from "uuid";
 
 export const useGlobalStore = defineStore("global", {
   state: () => ({
+    showToolBar: false,
     modals: {},
     productId: null,
     licenseEmails: {
       "hubr2000@gmail.com": null,
-      //   damian: null,
     },
   }),
   getters: {
@@ -18,18 +18,27 @@ export const useGlobalStore = defineStore("global", {
     getProductId: (state) => {
       return state.productId;
     },
+    getProductId: (state) => {
+      return state.productId;
+    },
+    getShowToolBar: (state) => {
+      return state.showToolBar;
+    },
+    allModals: (state) => {
+      return state.modals;
+    },
   },
   actions: {
     addModal(modalType, data) {
       if (!MODALS[modalType]) {
-        throw new Error(`Modal type ${modalType} doesn't exisits`);
+        throw new Error(`Modal type ${modalType} doesn't exist`);
       }
       const modalId = uuidv4();
       this.modals[modalId] = {
+        id: modalId,
         modalType,
         data,
       };
-      console.log(this.modals);
     },
     removeModal(modalId) {
       if (this.modals[modalId]) {
@@ -54,6 +63,12 @@ export const useGlobalStore = defineStore("global", {
     },
     setProductId(id) {
       this.productId = id;
+    },
+    setShowToolBar(show) {
+      this.showToolBar = show;
+    },
+    removeModal(id) {
+      delete this.modals[id];
     },
   },
 });

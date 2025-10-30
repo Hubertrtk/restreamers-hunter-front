@@ -16,7 +16,8 @@
     :style="{ top: `${menuY}px`, left: `${menuX}px` }"
     @click.stop
   >
-    <button @click="copyEmail" class="">Zaznacz</button>
+    <button @click="openInfoModal">Info</button>
+    <button @click="openUserRootsModal">Powiązania</button>
     <!-- <button @click="addToMesh" class="">Dodaj do mesh</button>
     <button @click="searchByEmail" class="">Info</button>
     <button @click="getRelatedUsers" class="">Roots</button>
@@ -93,8 +94,12 @@ const closeMenu = () => {
 };
 
 // 📍 Akcje w menu
-const copyEmail = () => {
-  globalStore.addValueToSearchInput(`${emailText.value}\n`);
+const openInfoModal = () => {
+  handleAction(ACTIONS.OPEN_USER_INFO_MODAL, emailText.value);
+  closeMenu();
+};
+const openUserRootsModal = () => {
+  handleAction(ACTIONS.OPEN_USER_ROOTS_MODAL, emailText.value);
   closeMenu();
 };
 

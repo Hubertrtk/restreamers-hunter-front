@@ -1,15 +1,9 @@
 <template>
-  <label class="productId-label">
-    <input type="number" v-model="productIdInput" />
-    <button @click="setProductId">ok</button>
-  </label>
+  <ToolBar />
   <div class="container">
     <SuspectsLobby v-for="(value, key) in MONITORS" :key="key" :type="value" />
     <Meshes />
-    <!-- <SearchBar />
-    <Meshes />
-    <SuspectsLobby /> -->
-    <!-- <div
+    <div
       v-for="modal in modals"
       :key="modal.id"
       class="modal-container"
@@ -20,13 +14,14 @@
     >
       <div class="row">
         <div @mousedown="startDrag($event, modal.id)">…</div>
-        <button @click="removeModal(modal.id)">x</button>
+        <button class="close-modal-button" @click="removeModal(modal.id)">
+          ✕
+        </button>
       </div>
       <component :is="modalComponents[modal.modalType]" :params="modal.data" />
-    </div> -->
+    </div>
   </div>
 </template>
-
 <script setup>
 import { computed, reactive } from "vue";
 import SearchBar from "./components/searchBar/SearchBar.vue";
@@ -42,8 +37,7 @@ import { onMounted } from "vue";
 import { onUnmounted } from "vue";
 import { getLicenses } from "./api/serviceApi";
 import { ref } from "vue";
-
-const productIdInput = ref(null);
+import ToolBar from "./components/toolBar/ToolBar.vue";
 
 const globalStore = useGlobalStore();
 
@@ -75,16 +69,12 @@ const modals = computed(() => globalStore.allModals);
 const modalComponents = {
   USER_INFO: SearchByEmail,
   SEARCH_BY_NAGRA: SearchByNagra,
-  USER_ROORS: UserRoots,
+  USER_ROOTS: UserRoots,
   MESH: Mesh,
 };
 
 const removeModal = (id) => {
   globalStore.removeModal(id);
-};
-
-const setProductId = () => {
-  globalStore.setProductId(productIdInput.value);
 };
 
 // pozycje modalów
@@ -115,45 +105,4 @@ const startDrag = (event, id) => {
   window.addEventListener("mousemove", onMouseMove);
   window.addEventListener("mouseup", onMouseUp);
 };
-const isTextAreVisible = () => {
-  return globalStore.getShowSearchInput;
-};
-const changeTextAreaIsVisible = () => {
-  return globalStore.changeShowSearchInput(!isTextAreVisible());
-};
-window.addEventListener("keydown", function (event) {
-  switch (event.key) {
-    case "Escape":
-      changeTextAreaIsVisible();
-      break;
-    default:
-      return;
-  }
-});
 </script>
-
-<style scoped>
-.container {
-}
-.modal-container {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  position: absolute;
-  cursor: default;
-  border: 2px solid black;
-  border-radius: 10px;
-  padding: 4px 0;
-}
-.row {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-}
-.row > div {
-  cursor: grab;
-  user-select: none;
-}
-</style>

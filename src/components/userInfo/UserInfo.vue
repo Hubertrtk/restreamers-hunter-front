@@ -90,19 +90,16 @@ const formatDate = (timestamp) => {
 <style scoped>
 .user-card {
   max-width: 100%;
-  max-height: 100%;
   padding: 25px;
-  background: #f7f9fb;
+  /* background: #f7f9fb; */
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   font-family: "Segoe UI", sans-serif;
-  color: #222;
 }
 
 .user-card h2 {
   font-size: 24px;
   margin-bottom: 15px;
-  color: #333;
 }
 
 .user-info {
@@ -112,11 +109,10 @@ const formatDate = (timestamp) => {
 
 .section h3 {
   font-size: 18px;
-  color: #444;
 }
 
 .card {
-  background: #fff;
+  /* background: #fff; */
   border: 1px solid #ddd;
   border-radius: 6px;
   padding: 12px 15px;
@@ -124,7 +120,7 @@ const formatDate = (timestamp) => {
 }
 
 .card:hover {
-  background: #f1f7ff;
+  /* background: #f1f7ff; */
 }
 
 p {

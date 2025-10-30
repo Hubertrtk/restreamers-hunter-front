@@ -27,10 +27,4 @@ onMounted(async () => {
   await getData(props.params);
 });
 </script>
-<style scoped>
-.search-by-email-container {
-  height: 500px;
-  width: 400px;
-  overflow-y: scroll;
-}
-</style>
+<style scoped></style>
