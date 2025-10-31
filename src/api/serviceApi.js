@@ -49,9 +49,10 @@ export const runMonitor = (meshId) => {
   });
 };
 
-export const markAsFoundByNagra = (emails) => {
+export const markAsFoundByNagra = (emails, productId) => {
   return axiosInstance.post(`/restreamershunter/markAsFoundByNagra`, {
     emails,
+    productId,
   });
 };
 

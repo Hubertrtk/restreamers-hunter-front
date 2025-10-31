@@ -87,43 +87,4 @@ const formatDate = (timestamp) => {
 };
 </script>
 
-<style scoped>
-.user-card {
-  max-width: 100%;
-  padding: 25px;
-  /* background: #f7f9fb; */
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  font-family: "Segoe UI", sans-serif;
-}
-
-.user-card h2 {
-  font-size: 24px;
-  margin-bottom: 15px;
-}
-
-.user-info {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-}
-
-.section h3 {
-  font-size: 18px;
-}
-
-.card {
-  /* background: #fff; */
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  padding: 12px 15px;
-  transition: 0.2s;
-}
-
-.card:hover {
-  /* background: #f1f7ff; */
-}
-
-p {
-  margin: 0;
-}
-</style>
+<style scoped></style>

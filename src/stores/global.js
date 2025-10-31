@@ -77,5 +77,8 @@ export const useGlobalStore = defineStore("global", {
     addSelectedEmails(emails) {
       this.selectedEmails = { ...this.selectedEmails, ...emails };
     },
+    removeSelectedEmail(email) {
+      delete this.selectedEmails[email];
+    },
   },
 });

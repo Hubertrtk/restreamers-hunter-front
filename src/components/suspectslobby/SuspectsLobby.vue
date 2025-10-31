@@ -1,7 +1,7 @@
 <template>
   <div class="suspects-lobby-wrapper">
     <p>{{ props.type }}</p>
-    <Loading v-if="isLoading" />
+    <Loading v-if="isLoading && !data" />
     <ul v-if="Object.keys(data || {}).length">
       <li v-for="(value, email) in data" :key="email">
         <Email>{{ email }}</Email>
@@ -13,7 +13,7 @@
 
 <script setup>
 import { getSuspectsLobby } from "@/api/serviceApi";
-import { ref } from "vue";
+import { onUnmounted, ref } from "vue";
 import Email from "../elements/Email.vue";
 import { handleAction } from "@/utils/handleAction";
 import { ACTIONS } from "@/utils/constants";
@@ -28,40 +28,30 @@ const props = defineProps({
   },
 });
 
-// wybrana opcja z selecta
-const selected = ref("");
-// dane z API
-const users = ref({});
-
 const { data, error, isLoading, getData } = useFetchHook(getSuspectsLobby);
+
+let intervalId = null;
 
 onMounted(() => {
   getData(props.type)
     .then(() => {
-      // users.value = data.value;
-      // const emails = Object.keys(data.value);
-      // console.log("emails");
-      // console.log(emails);
-      // handleAction(ACTIONS.getLicenses, emails);
       console.log(data.value);
     })
     .catch((err) => {
       console.error(err);
     });
+  intervalId = setInterval(() => {
+    getData(props.type)
+      .then(() => {
+        console.log(data.value);
+      })
+      .catch((err) => {
+        console.error(err);
+      });
+  }, 5000);
 });
 
-const fetchData = async () => {
-  if (!selected.value) return;
-  try {
-    const r = await getSuspectsLobby(selected.value);
-    users.value = r.data;
-    const emails = Object.keys(r.data);
-    console.log("emails");
-    console.log(emails);
-    handleAction(ACTIONS.getLicenses, emails);
-  } catch (err) {
-    console.error(err);
-    users.value = {};
-  }
-};
+onUnmounted(() => {
+  clearInterval(intervalId);
+});
 </script>
