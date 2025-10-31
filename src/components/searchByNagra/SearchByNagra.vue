@@ -12,7 +12,7 @@
       </button>
     </div>
     <div v-if="data">
-      <ul>
+      <ul class="">
         <li v-for="(item, index) in data[selectedWtm]" :key="index">
           <Email>{{ item.email }}</Email>
           <UserInfo :user="item" />
