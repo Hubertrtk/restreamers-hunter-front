@@ -18,6 +18,10 @@ export function handleAction(action, params) {
       modal = MODALS.USER_ROOTS;
       globalStore.addModal(modal, params);
       break;
+    case ACTIONS.SEARCH_BY_WTMID:
+      modal = MODALS.SEARCH_BY_NAGRA;
+      globalStore.addModal(modal, params);
+      break;
     default:
       return;
   }

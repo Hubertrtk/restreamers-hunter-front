@@ -57,9 +57,6 @@ body {
 }
 
 .productId-label {
-  position: fixed;
-  bottom: 0;
-  left: 0;
   z-index: 1000;
 }
 .tool-bar-background {
@@ -69,12 +66,57 @@ body {
   left: 0;
   bottom: 0;
   right: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
   background-color: #212121c7;
-  nav {
+  .tool-bar-wrapper {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    nav {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 50px;
+      border: 2px solid blue;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: row;
+      button {
+        margin: 0 10px;
+        height: 100%;
+      }
+    }
+    textarea {
+      position: absolute;
+      top: 30%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 2px solid green;
+      width: 30%;
+      height: 30%;
+    }
+    .productId-label {
+      position: absolute;
+      bottom: 10px;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 2px solid yellow;
+    }
+    .selected-emails {
+      position: absolute;
+      left: 0;
+      bottom: 100px;
+      top: 100px;
+      width: 300px;
+      border: 2px solid red;
+      overflow-y: scroll;
+      list-style: none;
+      padding: 0 10px;
+      li {
+        margin: 15px 0;
+      }
+    }
   }
 }
 .modal-container {
@@ -85,8 +127,6 @@ body {
   cursor: default;
   border-radius: 10px;
   padding: 0 4px 4px 4px;
-  //   background-color: rgb(255, 255, 255);
-  //   border: 3px solid rgb(27, 75, 233);
   background: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.1);
@@ -165,4 +205,25 @@ body {
 * {
   scrollbar-width: thin;
   scrollbar-color: rgba(100, 100, 100, 0.4) transparent;
+}
+
+.tool-bar-target {
+  position: relative;
+}
+
+.tool-bar-container {
+  position: absolute;
+  z-index: 10000;
+  top: 40%;
+  left: 40%;
+  display: flex;
+  flex-direction: column;
+  button {
+    background: rgb(255, 255, 255);
+    border: none;
+    color: #000000;
+    &:hover {
+      background: #e0e0e0;
+    }
+  }
 }

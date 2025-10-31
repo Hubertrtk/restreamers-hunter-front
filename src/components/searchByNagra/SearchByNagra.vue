@@ -48,7 +48,7 @@ const props = defineProps({
 const { data, error, isLoading, getData } = useFetchHook(getUsersByWtmIds);
 
 onMounted(async () => {
-  await getData([Number(props.params)]);
+  await getData(props.params);
 });
 </script>
 <style scoped>

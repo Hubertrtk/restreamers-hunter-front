@@ -6,6 +6,7 @@ export const useGlobalStore = defineStore("global", {
   state: () => ({
     showToolBar: false,
     modals: {},
+    selectedEmails: {},
     productId: null,
     licenseEmails: {
       "hubr2000@gmail.com": null,
@@ -26,6 +27,9 @@ export const useGlobalStore = defineStore("global", {
     },
     allModals: (state) => {
       return state.modals;
+    },
+    getSelectedEmails: (state) => {
+      return state.selectedEmails;
     },
   },
   actions: {
@@ -69,6 +73,9 @@ export const useGlobalStore = defineStore("global", {
     },
     removeModal(id) {
       delete this.modals[id];
+    },
+    addSelectedEmails(emails) {
+      this.selectedEmails = { ...this.selectedEmails, ...emails };
     },
   },
 });
